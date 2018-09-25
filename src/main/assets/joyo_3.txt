@@ -1,0 +1,2136 @@
+3	亜	sub-	ア
+3	哀	pathetic	アイ、あわ-れ、あわ-れむ
+3	挨	push open	アイ
+3	愛	love	アイ
+3	曖	not clear	アイ
+3	悪	bad	アク、オ、わる-い
+3	握	grip	アク、にぎ-る
+3	圧	pressure	アツ
+3	扱	handle	あつか-う
+3	宛	allocate	あ-てる
+3	嵐	storm	あらし
+3	安	cheap	アン、やす-い
+3	案	plan	アン
+3	暗	dark	アン、くら-い
+3	以	by means of	イ
+3	衣	clothes	イ、ころも
+3	位	rank	イ、くらい
+3	囲	surround	イ、かこ-む、かこ-う
+3	医	medicine	イ
+3	依	reliant	イ、（エ）
+3	委	committee	イ、ゆだ-ねる
+3	威	intimidate	イ
+3	為	do	イ
+3	畏	fear	イ、おそ-れる
+3	胃	stomach	イ
+3	尉	military officer	イ
+3	異	uncommon	イ、こと
+3	移	shift	イ、うつ-る、うつ-す
+3	萎	wither	イ、な-える
+3	偉	admirable	イ、えら-い
+3	椅	chair	イ
+3	彙	same kind	イ
+3	意	idea	イ
+3	違	differ	イ、ちが-う、ちが-える
+3	維	fiber	イ
+3	慰	consolation	イ、なぐさ-める、なぐさ-む
+3	遺	bequeath	イ、（ユイ）
+3	緯	horizontal	イ
+3	域	range	イキ
+3	育	nurture	イク、そだ-つ、そだ-てる、はぐく-む
+3	一	one	イチ、イツ、ひと、ひと-つ
+3	壱	one (falsification prevention)	イチ
+3	逸	deviate	イツ
+3	茨 [5]	thorn	（いばら）[6]
+3	芋	potato	いも
+3	引	pull	イン、ひ-く、ひ-ける
+3	印	mark	イン、しるし
+3	因	cause	イン、よ-る
+3	咽	throat	イン
+3	姻	matrimony	イン
+3	員	member	イン
+3	院	institution	イン
+3	淫 [7]	lewdness	イン、みだ-ら
+3	陰	shade	イン、かげ、かげ-る
+3	飲	drink	イン、の-む
+3	隠	conceal	イン、かく-す、かく-れる
+3	韻	rhyme	イン
+3	右	right (direction)	ウ、ユウ、みぎ
+3	宇	eaves	ウ
+3	羽	feather	ウ、は、はね
+3	雨	rain	ウ、あめ、（あま）
+3	唄	songs with shamisen	（うた）
+3	鬱	gloom	ウツ
+3	畝	furrow	うね
+3	浦	bay	うら
+3	運	carry	ウン、はこ-ぶ
+3	雲	cloud	ウン、くも
+3	永	eternity	エイ、なが-い
+3	泳	swim	エイ、およ-ぐ
+3	英	England	エイ
+3	映	reflect	エイ、うつ-る、うつ-す、は-える
+3	栄	prosperity	エイ、さか-える、は-え、は-える
+3	営	manage	エイ、いとな-む
+3	詠	recitation	エイ、よ-む
+3	影	shadow	エイ、かげ
+3	鋭	pointed	エイ、するど-い
+3	衛	defense	エイ
+3	易	easy	エキ、イ、やさ-しい
+3	疫	epidemic	エキ、（ヤク）
+3	益	benefit	エキ、（ヤク）
+3	液	fluid	エキ
+3	駅	station	エキ
+3	悦	ecstasy	エツ
+3	越	cross over	エツ、こ-す、こ-える
+3	謁	audience	エツ
+3	閲	review	エツ
+3	円	round, yen	エン、まる-い
+3	延	prolong	エン、の-びる、の-べる、の-ばす
+3	沿	run alongside	エン、そ-う
+3	炎	inflammation	エン、ほのお
+3	怨	grudge	エン、オン
+3	宴	banquet	エン
+3	媛	princess	エン
+3	援	aid	エン
+3	園	garden	エン、その
+3	煙	smoke	エン、けむ-る、けむり、けむ-い
+3	猿	monkey	エン、さる
+3	遠	far	エン、（オン）、とお-い
+3	鉛	lead	エン、なまり
+3	塩	salt	エン、しお
+3	演	perform	エン
+3	縁	affinity	エン、ふち
+3	艶	glossy	エン、つや
+3	汚	dirty	オ、けが-す、けが-れる、けが-らわしい、よご-す、よご-れる、きたな-い
+3	王	king	オウ
+3	凹	concave	オウ
+3	央	center	オウ
+3	応	respond	オウ、こた-える
+3	往	outward journey	オウ
+3	押	push	オウ、お-す、お-さえる
+3	旺	flourishing	オウ
+3	欧	Europe	オウ
+3	殴	assault	オウ、なぐ-る
+3	桜	cherry tree	オウ、さくら
+3	翁	venerable old man	オウ
+3	奥	heart	オウ、おく
+3	横	side	オウ、よこ
+3	岡	hill	（おか）[6]
+3	屋	roof	オク、や
+3	億	hundred million	オク
+3	憶	recollection	オク
+3	臆	timidity	オク
+3	虞	uneasiness	おそれ
+3	乙	the latter	オツ
+3	俺	I, we	おれ
+3	卸	wholesale	おろ-す、おろし
+3	音	sound	オン、イン、おと、ね
+3	恩	grace	オン
+3	温	warm	オン、あたた-か、あたた-かい、あたた-まる、あたた-める
+3	穏	calm	オン、おだ-やか
+3	下	below	カ、ゲ、した、しも、もと、さ-げる、さ-がる、くだ-る、くだ-す、くだ-さる、お-ろす、お-りる
+3	化	change	カ、ケ、ば-ける、ば-かす
+3	火	fire	カ、ひ、（ほ）
+3	加	add	カ、くわ-える、くわ-わる
+3	可	possible	カ
+3	仮	temporary	カ、（ケ）、かり
+3	何	what	カ、なに、（なん）
+3	花	flower	カ、はな
+3	佳	excellent	カ
+3	価	value	カ、あたい
+3	果	fruit	カ、は-たす、は-てる、は-て
+3	河	river	カ、かわ
+3	苛	torment	カ
+3	科	section	カ
+3	架	rack	カ、か-ける、か-かる
+3	夏	summer	カ、（ゲ）、なつ
+3	家	house	カ、ケ、いえ、や
+3	荷	luggage	カ、に
+3	華	splendor	カ、（ケ）、はな
+3	菓	confectionery	カ
+3	貨	freight	カ
+3	渦	whirlpool	カ、うず
+3	過	go beyond	カ、す-ぎる、す-ごす、あやま-つ、あやま-ち
+3	嫁	marry into	カ、よめ、とつ-ぐ
+3	暇	spare time	カ、ひま
+3	禍	calamity	カ
+3	靴	shoes	カ、くつ
+3	寡	widow	カ
+3	歌	song	カ、うた、うた-う
+3	箇	counters for things	カ
+3	稼	earnings	カ、かせ-ぐ
+3	課	section	カ
+3	蚊	mosquito	か
+3	牙 [5]	tusk	ガ、（ゲ）、きば
+3	瓦	tile	ガ、かわら
+3	我	ego	ガ、われ、わ
+3	画	tableau	ガ、カク
+3	芽	bud	ガ、め
+3	賀	congratulations	ガ
+3	雅	gracious	ガ
+3	餓	starve	ガ
+3	介	jammed in	カイ
+3	回	times	カイ、（エ）、まわ-る、まわ-す
+3	灰	ashes	カイ、はい
+3	会	association	カイ、エ、あ-う
+3	快	cheerful	カイ、こころよ-い
+3	戒	commandment	カイ、いまし-める
+3	改	reformation	カイ、あらた-める、あらた-まる
+3	怪	suspicious	カイ、あや-しい、あや-しむ
+3	拐	kidnap	カイ
+3	悔	repent	カイ、く-いる、く-やむ、くや-しい
+3	海	sea	カイ、うみ
+3	界	world	カイ
+3	皆	all	カイ、みな
+3	械	contraption	カイ
+3	絵	picture	カイ、エ
+3	開	open	カイ、ひら-く、ひら-ける、あ-く、あ-ける
+3	階	floor of a building	カイ
+3	塊	clod	カイ、かたまり
+3	楷	square character style	カイ
+3	解	untie	カイ、ゲ、と-く、と-かす、と-ける
+3	潰	crush	カイ、つぶ-す、つぶ-れる
+3	壊	demolition	カイ、こわ-す、こわ-れる
+3	懐	pocket	カイ、ふところ、なつ-かしい、なつ-かしむ、なつ-く、なつ-ける
+3	諧	harmony	カイ
+3	貝	shellfish	かい
+3	外	outside	ガイ、ゲ、そと、ほか、はず-す、はず-れる
+3	劾	censure	ガイ
+3	害	harm	ガイ
+3	崖	cliff	ガイ、がけ
+3	涯	horizon	ガイ
+3	街	street	ガイ、（カイ）、まち
+3	慨	rue	ガイ
+3	蓋	cover	ガイ、ふた
+3	該	above-stated	ガイ
+3	概	outline	ガイ
+3	骸	dead remains	ガイ
+3	垣	hedge	かき
+3	柿	persimmon	かき
+3	各	each	カク、おのおの
+3	角	angle	カク、かど、つの
+3	拡	broaden	カク
+3	革	leather	カク、かわ
+3	格	status	カク、（コウ）
+3	核	nucleus	カク
+3	殻	husk	カク、から
+3	郭	enclosure	カク
+3	覚	memorize	カク、おぼ-える、さ-ます、さ-める
+3	較	contrast	カク
+3	隔	isolate	カク、へだ-てる、へだ-たる
+3	閣	tall	カク
+3	確	certain	カク、たし-か、たし-かめる
+3	獲	seize	カク、え-る
+3	嚇	menacing	カク
+3	穫	harvest	カク
+3	学	study	ガク、まな-ぶ
+3	岳	point	ガク、たけ
+3	楽	pleasure	ガク、ラク、たの-しい、たの-しむ
+3	額	amount	ガク、ひたい
+3	顎	jaw	ガク、あご
+3	掛	hang	か-ける、か-かる、かかり
+3	潟	lagoon	かた
+3	括	fasten	カツ
+3	活	active	カツ
+3	喝	hoarse	カツ
+3	渇	thirst	カツ、かわ-く
+3	割	divide	カツ、わ-る、わり、わ-れる、さ-く
+3	葛 [7]	arrowroot	カツ、くず
+3	滑	slippery	カツ、コツ、すべ-る、なめ-らか
+3	褐	brown	カツ
+3	轄	control	カツ
+3	且	moreover	か-つ
+3	株	stocks	かぶ
+3	釜	kettle	かま
+3	鎌	sickle	かま
+3	刈	reap	か-る
+3	干	dry	カン、ほ-す、ひ-る
+3	刊	publish	カン
+3	甘	sweet	カン、あま-い、あま-える、あま-やかす
+3	汗	sweat	カン、あせ
+3	缶	tin can	カン
+3	完	perfect	カン
+3	肝	liver	カン、きも
+3	官	government official	カン
+3	冠	crown	カン、かんむり
+3	巻	scroll	カン、ま-く、まき
+3	看	watch over	カン
+3	陥	collapse	カン、おちい-る、おとしい-れる
+3	乾	dry	カン、かわ-く、かわ-かす
+3	勘	intuition	カン
+3	患	afflicted	カン、わずら-う
+3	貫	pierce	カン、つらぬ-く
+3	寒	cold	カン、さむ-い
+3	喚	yell	カン
+3	堪	withstand	カン、た-える
+3	換	interchange	カン、か-える、か-わる
+3	敢	daring	カン
+3	棺	coffin	カン
+3	款	goodwill	カン
+3	間	interval	カン、ケン、あいだ、ま
+3	閑	leisure	カン
+3	勧	persuade	カン、すす-める
+3	寛	tolerant	カン
+3	幹	tree-trunk	カン、みき
+3	感	feeling	カン
+3	漢	China	カン
+3	慣	accustomed	カン、な-れる、な-らす
+3	管	pipe	カン、くだ
+3	関	related	カン、せき、かか-わる
+3	歓	delight	カン
+3	監	oversee	カン
+3	緩	slacken	カン、ゆる-い、ゆる-やか、ゆる-む、ゆる-める
+3	憾	remorse	カン
+3	還	send back	カン
+3	館	public building	カン、やかた
+3	環	ring	カン
+3	簡	simplicity	カン
+3	観	observe	カン
+3	韓 [5]	Korea	カン
+3	艦	warship	カン
+3	鑑	specimen	カン、かんが-みる
+3	丸	circle	ガン、まる、まる-い、まる-める
+3	含	include	ガン、ふく-む、ふく-める
+3	岸	beach	ガン、きし
+3	岩	boulder	ガン、いわ
+3	玩	trifle with	ガン
+3	眼	eyeball	ガン、（ゲン）、まなこ
+3	頑	stubborn	ガン
+3	顔	face	ガン、かお
+3	願	request	ガン、ねが-う
+3	企	plan	キ、くわだ-てる
+3	伎	deed	キ
+3	危	dangerous	キ、あぶ-ない、あや-うい、あや-ぶむ
+3	机	desk	キ、つくえ
+3	気	feeling	キ、ケ
+3	岐	branch off	キ
+3	希	hope	キ
+3	忌	mourning	キ、い-む、い-まわしい
+3	汽	steam	キ
+3	奇	strange	キ
+3	祈	pray	キ、いの-る
+3	季	seasons	キ
+3	紀	chronicle	キ
+3	軌	rut	キ
+3	既	previously	キ、すで-に
+3	記	write down	キ、しる-す
+3	起	wake up	キ、お-きる、お-こる、お-こす
+3	飢	hungry	キ、う-える
+3	鬼	ghost	キ、おに
+3	帰	return	キ、かえ-る、かえ-す
+3	基	foundation	キ、もと、もとい
+3	寄	approach	キ、よ-る、よ-せる
+3	規	rule	キ
+3	亀	turtle	キ、かめ
+3	喜	rejoice	キ、よろこ-ぶ
+3	幾	how many	キ、いく
+3	揮	brandish	キ
+3	期	period of time	キ、（ゴ）
+3	棋	chess piece	キ
+3	貴	precious	キ、たっと-い、とうと-い、たっと-ぶ、とうと-ぶ
+3	棄	abandon	キ
+3	毀	destroy	キ
+3	旗	national flag	キ、はた
+3	器	container	キ、うつわ
+3	畿	capital	キ
+3	輝	radiance	キ、かがや-く
+3	機	machine	キ、はた
+3	騎	equestrian	キ
+3	技	skill	ギ、わざ
+3	宜	best regards	ギ
+3	偽	falsehood	ギ、いつわ-る、にせ
+3	欺	deceit	ギ、あざむ-く
+3	義	righteousness	ギ
+3	疑	doubt	ギ、うたが-う
+3	儀	ceremony	ギ
+3	戯	frolic	ギ、たわむ-れる
+3	擬	mimic	ギ
+3	犠	sacrifice	ギ
+3	議	deliberation	ギ
+3	菊	chrysanthemum	キク
+3	吉	good luck	キチ、キツ
+3	喫	consume	キツ
+3	詰	packed	キツ、つ-める、つ-まる、つ-む
+3	却	instead	キャク
+3	客	guest	キャク、カク
+3	脚	leg	キャク、（キャ）、あし
+3	逆	inverted	ギャク、さか、さか-らう
+3	虐	tyrannize	ギャク、しいた-げる
+3	九	nine	キュウ、ク、ここの、ここの-つ
+3	久	long time	キュウ、（ク）、ひさ-しい
+3	及	reach out	キュウ、およ-ぶ、およ-び、およ-ぼす
+3	弓	bow (archery, violin)	キュウ、ゆみ
+3	丘	hill	キュウ、おか
+3	旧	old times	キュウ
+3	休	rest	キュウ、やす-む、やす-まる、やす-める
+3	吸	suck	キュウ、す-う
+3	朽	decay	キュウ、く-ちる
+3	臼	mortar	キュウ、うす
+3	求	request	キュウ、もと-める
+3	究	research	キュウ、きわ-める
+3	泣	cry	キュウ、な-く
+3	急	hurry	キュウ、いそ-ぐ
+3	級	rank	キュウ
+3	糾	twist	キュウ
+3	宮	Shinto shrine	キュウ、グウ、（ク）、みや
+3	救	salvation	キュウ、すく-う
+3	球	sphere	キュウ、たま
+3	給	salary	キュウ
+3	嗅	smell	キュウ、か-ぐ
+3	窮	hard up	キュウ、きわ-める、きわ-まる
+3	牛	cow	ギュウ、うし
+3	去	leave	キョ、コ、さ-る
+3	巨	gigantic	キョ
+3	居	reside	キョ、い-る
+3	拒	repel	キョ、こば-む
+3	拠	foothold	キョ、コ
+3	挙	raise	キョ、あ-げる、あ-がる
+3	虚	void	キョ、（コ）
+3	許	permit	キョ、ゆる-す
+3	距	long-distance	キョ
+3	魚	fish	ギョ、うお、さかな
+3	御	honorable	ギョ、ゴ、おん
+3	漁	fishing	ギョ、リョウ
+3	凶	villain	キョウ
+3	共	together	キョウ、とも
+3	叫	shout	キョウ、さけ-ぶ
+3	狂	lunatic	キョウ、くる-う、くる-おしい
+3	京	capital	キョウ、ケイ
+3	享	receive	キョウ
+3	供	offer	キョウ、（ク）、そな-える、とも
+3	協	cooperation	キョウ
+3	況	condition	キョウ
+3	峡	gorge	キョウ
+3	挟	pinch	キョウ、はさ-む、はさ-まる
+3	狭	cramped	キョウ、せま-い、せば-める、せば-まる
+3	恐	fear	キョウ、おそ-れる、おそ-ろしい
+3	恭	respect	キョウ、うやうや-しい
+3	胸	bosom	キョウ、むね、（むな）
+3	脅	threaten	キョウ、おびや-かす、おど-す、おど-かす
+3	強	strong	キョウ、ゴウ、つよ-い、つよ-まる、つよ-める、し-いる
+3	教	teach	キョウ、おし-える、おそ-わる
+3	郷	home town	キョウ、ゴウ
+3	境	boundary	キョウ、（ケイ）、さかい
+3	橋	bridge	キョウ、はし
+3	矯	rectify	キョウ、た-める
+3	鏡	mirror	キョウ、かがみ
+3	競	compete	キョウ、ケイ、きそ-う、せ-る
+3	響	echo	キョウ、ひび-く
+3	驚	wonder	キョウ、おどろ-く、おどろ-かす
+3	仰	face-up	ギョウ、（コウ）、あお-ぐ、おお-せ
+3	暁	daybreak	ギョウ、あかつき
+3	業	business	ギョウ、ゴウ、わざ
+3	凝	congeal	ギョウ、こ-る、こ-らす
+3	曲	musical composition	キョク、ま-がる、ま-げる
+3	局	office	キョク
+3	極	poles	キョク、ゴク、きわ-める、きわ-まる、きわ-み
+3	玉	ball	ギョク、たま
+3	巾	towel	キン
+3	斤	axe	キン
+3	均	level	キン
+3	近	near	キン、ちか-い
+3	金	gold	キン、コン、かね、（かな）
+3	菌	germ	キン
+3	勤	diligence	キン、（ゴン）、つと-める、つと-まる
+3	琴	harp	キン、こと
+3	筋	muscle	キン、すじ
+3	僅 [7]	a wee bit	キン、わず-か
+3	禁	prohibition	キン
+3	緊	tense	キン
+3	錦	brocade	キン、にしき
+3	謹	discreet	キン、つつし-む
+3	襟	collar	キン、えり
+3	吟	versify	ギン
+3	銀	silver	ギン
+3	区	ward	ク
+3	句	phrase	ク
+3	苦	suffer	ク、くる-しい、くる-しむ、くる-しめる、にが-い、にが-る
+3	駆	drive	ク、か-ける、か-る
+3	具	tool	グ
+3	惧	dread	グ
+3	愚	foolish	グ、おろ-か
+3	空	sky	クウ、そら、あ-く、あ-ける、から
+3	偶	accidentally	グウ
+3	遇	interview	グウ
+3	隅	corner	グウ、すみ
+3	串	skewer	くし
+3	屈	yield	クツ
+3	掘	dig	クツ、ほ-る
+3	窟	cavern	クツ
+3	熊	bear	くま
+3	繰	winding	く-る
+3	君	you	クン、きみ
+3	訓	instruction	クン
+3	勲	meritorious deed	クン
+3	薫	fragrant	クン、かお-る
+3	軍	army	グン
+3	郡	county	グン
+3	群	flock	グン、む-れる、む-れ、（むら）
+3	兄	older brother	ケイ、（キョウ）、あに
+3	刑	punish	ケイ
+3	形	shape	ケイ、ギョウ、かた、かたち
+3	系	lineage	ケイ
+3	径	diameter	ケイ
+3	茎	stalk	ケイ、くき
+3	係	person in charge	ケイ、かか-る、かかり
+3	型	model	ケイ、かた
+3	契	pledge	ケイ、ちぎ-る
+3	計	measure	ケイ、はか-る、はか-らう
+3	恵	favor	ケイ、エ、めぐ-む
+3	啓	disclose	ケイ
+3	掲	put up (a notice)	ケイ、かか-げる
+3	渓	mountain stream	ケイ
+3	経	manage	ケイ、キョウ、へ-る
+3	蛍	lightning-bug	ケイ、ほたる
+3	敬	respect	ケイ、うやま-う
+3	景	scenery	ケイ
+3	軽	light	ケイ、かる-い、かろ-やか
+3	傾	lean	ケイ、かたむ-く、かたむ-ける
+3	携	portable	ケイ、たずさ-える、たずさ-わる
+3	継	inherit	ケイ、つ-ぐ
+3	詣	visit a temple	ケイ、もう-でる
+3	慶	jubilation	ケイ
+3	憬	long for	ケイ
+3	稽	consider	ケイ
+3	憩	recess	ケイ、いこ-い、いこ-う
+3	警	guard against	ケイ
+3	鶏	chicken	ケイ、にわとり
+3	芸	art	ゲイ
+3	迎	welcome	ゲイ、むか-える
+3	鯨	whale	ゲイ、くじら
+3	隙	fissure	ゲキ、すき
+3	劇	drama	ゲキ
+3	撃	beat	ゲキ、う-つ
+3	激	violent	ゲキ、はげ-しい
+3	桁	beam	けた
+3	欠	lack	ケツ、か-ける、か-く
+3	穴	hole	ケツ、あな
+3	血	blood	ケツ、ち
+3	決	decide	ケツ、き-める、き-まる
+3	結	tie	ケツ、むす-ぶ、ゆ-う、ゆ-わえる
+3	傑	greatness	ケツ
+3	潔	undefiled	ケツ、いさぎよ-い
+3	月	month, moon	ゲツ、ガツ、つき
+3	犬	dog	ケン、いぬ
+3	件	affair	ケン
+3	見	see	ケン、み-る、み-える、み-せる
+3	券	ticket	ケン
+3	肩	shoulder	ケン、かた
+3	建	build	ケン、（コン）、た-てる、た-つ
+3	研	sharpen	ケン、と-ぐ
+3	県	prefecture	ケン
+3	倹	frugal	ケン
+3	兼	concurrently	ケン、か-ねる
+3	剣	sabre	ケン、つるぎ
+3	拳	fist	ケン、こぶし
+3	軒	flats	ケン、のき
+3	健	healthy	ケン、すこ-やか
+3	険	precipitous	ケン、けわ-しい
+3	圏	sphere	ケン
+3	堅	strict	ケン、かた-い
+3	検	examine	ケン
+3	嫌	dislike	ケン、（ゲン）、きら-う、いや
+3	献	offering	ケン、（コン）
+3	絹	silk	ケン、きぬ
+3	遣	dispatch	ケン、つか-う、つか-わす
+3	権	rights	ケン、（ゴン）
+3	憲	constitution	ケン
+3	賢	intelligent	ケン、かしこ-い
+3	謙	self-effacing	ケン
+3	鍵	key	ケン、かぎ
+3	繭	cocoon	ケン、まゆ
+3	顕	appear	ケン
+3	験	test	ケン、（ゲン）
+3	懸	suspend	ケン、（ケ）、か-ける、か-かる
+3	元	origin	ゲン、ガン、もと
+3	幻	phantasm	ゲン、まぼろし
+3	玄	mysterious	ゲン
+3	言	say	ゲン、ゴン、い-う、こと
+3	弦	bowstring	ゲン、つる
+3	限	limit	ゲン、かぎ-る
+3	原	field	ゲン、はら
+3	現	appear	ゲン、あらわ-れる、あらわ-す
+3	舷	gunwale	ゲン
+3	減	decrease	ゲン、へ-る、へ-らす
+3	源	origin	ゲン、みなもと
+3	厳	strict	ゲン、（ゴン）、おごそ-か、きび-しい
+3	己	self	コ、キ、おのれ
+3	戸	door	コ、と
+3	古	old	コ、ふる-い、ふる-す
+3	呼	call	コ、よ-ぶ
+3	固	hard	コ、かた-める、かた-まる、かた-い
+3	股	crotch	コ、また
+3	虎	tiger	コ、とら
+3	孤	orphan	コ
+3	弧	arc	コ
+3	故	circumstances	コ、ゆえ
+3	枯	wither	コ、か-れる、か-らす
+3	個	individual	コ
+3	庫	warehouse	コ、（ク）
+3	湖	lake	コ、みずうみ
+3	雇	employ	コ、やと-う
+3	誇	boast	コ、ほこ-る
+3	鼓	drum	コ、つづみ
+3	錮	tie up	コ
+3	顧	look back	コ、かえり-みる
+3	五	five	ゴ、いつ、いつ-つ
+3	互	mutually	ゴ、たが-い
+3	午	noon	ゴ
+3	呉	give	ゴ
+3	後	behind	ゴ、コウ、のち、うし-ろ、あと、おく-れる
+3	娯	recreation	ゴ
+3	悟	enlightenment	ゴ、さと-る
+3	碁	Go	ゴ
+3	語	language	ゴ、かた-る、かた-らう
+3	誤	mistake	ゴ、あやま-る
+3	護	safeguard	ゴ
+3	口	mouth	コウ、ク、くち
+3	工	craft	コウ、ク
+3	公	public	コウ、おおやけ
+3	勾	capture	コウ
+3	孔	cavity	コウ
+3	功	achievement	コウ、（ク）
+3	巧	adroit	コウ、たく-み
+3	広	wide	コウ、ひろ-い、ひろ-まる、ひろ-める、ひろ-がる、ひろ-げる
+3	甲	armor	コウ、カン
+3	交	mix	コウ、まじ-わる、まじ-える、ま-じる、ま-ざる、ま-ぜる、か-う、か-わす
+3	光	ray	コウ、ひか-る、ひかり
+3	向	over there	コウ、む-く、む-ける、む-かう、む-こう
+3	后	empress	コウ
+3	好	like	コウ、この-む、す-く
+3	江	inlet	コウ、え
+3	考	think	コウ、かんが-える
+3	行	go	コウ、ギョウ、（アン）、い-く、ゆ-く、おこな-う
+3	坑	pit	コウ
+3	孝	filial piety	コウ
+3	抗	confront	コウ
+3	攻	aggression	コウ、せ-める
+3	更	grow late	コウ、さら、ふ-ける、ふ-かす
+3	効	effect	コウ、き-く
+3	幸	happiness	コウ、さいわ-い、さち、しあわ-せ
+3	拘	arrest	コウ
+3	肯	agreement	コウ
+3	侯	marquis	コウ
+3	厚	thick	コウ、あつ-い
+3	恒	constancy	コウ
+3	洪	deluge	コウ
+3	皇	emperor	コウ、オウ
+3	紅	deep red	コウ、（ク）、べに、くれない
+3	荒	laid waste	コウ、あら-い、あ-れる、あ-らす
+3	郊	outskirts	コウ
+3	香	incense	コウ、（キョウ）、か、かお-り、かお-る
+3	候	climate	コウ、そうろう
+3	校	school	コウ
+3	耕	till	コウ、たがや-す
+3	航	cruise	コウ
+3	貢	tribute	コウ、（ク）、みつ-ぐ
+3	降	descend	コウ、お-りる、お-ろす、ふ-る
+3	高	tall, expensive	コウ、たか-い、たか、たか-まる、たか-める
+3	康	health	コウ
+3	控	withdraw	コウ、ひか-える
+3	梗	close up	コウ
+3	黄	yellow	コウ、オウ、き、（こ）
+3	喉	throat	コウ、のど
+3	慌	disconcerted	コウ、あわ-てる、あわ-ただしい
+3	港	harbor	コウ、みなと
+3	硬	stiff	コウ、かた-い
+3	絞	strangle	コウ、しぼ-る、し-める、し-まる
+3	項	paragraph	コウ
+3	溝	gutter	コウ、みぞ
+3	鉱	mineral	コウ
+3	構	construct	コウ、かま-える、かま-う
+3	綱	hawser	コウ、つな
+3	酵	fermentation	コウ
+3	稿	draft	コウ
+3	興	entertain	コウ、キョウ、おこ-る、おこ-す
+3	衡	equilibrium	コウ
+3	鋼	steel	コウ、はがね
+3	講	lecture	コウ
+3	購	subscription	コウ
+3	乞	beg	こ-う
+3	号	number	ゴウ
+3	合	fit	ゴウ、ガッ、（カッ）、あ-う、あ-わす、あ-わせる
+3	拷	torture	ゴウ
+3	剛	sturdy	ゴウ
+3	傲	be proud	ゴウ
+3	豪	overpowering	ゴウ
+3	克	overcome	コク
+3	告	tell	コク、つ-げる
+3	谷	valley	コク、たに
+3	刻	engrave	コク、きざ-む
+3	国	country	コク、くに
+3	黒	black	コク、くろ、くろ-い
+3	穀	cereals	コク
+3	酷	cruel	コク
+3	獄	prison	ゴク
+3	骨	bone	コツ、ほね
+3	駒	horse	こま
+3	込	crowded	こ-む、こ-める
+3	頃	times	ころ
+3	今	now	コン、キン、いま
+3	困	become distressed	コン、こま-る
+3	昆	descendants	コン
+3	恨	rancor	コン、うら-む、うら-めしい
+3	根	root	コン、ね
+3	婚	marriage	コン
+3	混	mix	コン、ま-じる、ま-ざる、ま-ぜる、こ-む
+3	痕	mark	コン、あと
+3	紺	dark blue	コン
+3	魂	soul	コン、たましい
+3	墾	ground-breaking	コン
+3	懇	sociable	コン、ねんご-ろ
+3	左	left (direction)	サ、ひだり
+3	佐	help	サ
+3	沙	sand	サ
+3	査	investigate	サ
+3	砂	sand	サ、シャ、すな
+3	唆	tempt	サ、そそのか-す
+3	差	distinction	サ、さ-す
+3	詐	lie	サ
+3	鎖	chain	サ、くさり
+3	座	sit	ザ、すわ-る
+3	挫	sprain	ザ
+3	才	genius	サイ
+3	再	again	サイ、（サ）、ふたた-び
+3	災	disaster	サイ、わざわ-い
+3	妻	wife	サイ、つま
+3	采	form	サイ
+3	砕	smash	サイ、くだ-く、くだ-ける
+3	宰	superintend	サイ
+3	栽	plantation	サイ
+3	彩	coloring	サイ、いろど-る
+3	採	pick	サイ、と-る
+3	済	settle	サイ、す-む、す-ます
+3	祭	festival	サイ、まつ-る、まつ-り
+3	斎	purification	サイ
+3	細	thin	サイ、ほそ-い、ほそ-る、こま-か、こま-かい
+3	菜	vegetable	サイ、な
+3	最	most	サイ、もっと-も
+3	裁	judge	サイ、た-つ、さば-く
+3	債	bond	サイ
+3	催	sponsor	サイ、もよお-す
+3	塞	obstruct	サイ、ソク、ふさ-ぐ、ふさ-がる
+3	歳	year-end	サイ、（セイ）
+3	載	ride	サイ、の-せる、の-る
+3	際	occasion	サイ、きわ
+3	埼	cape (geography)	（さい）[6]
+3	在	exist	ザイ、あ-る
+3	材	lumber	ザイ
+3	剤	dose	ザイ
+3	財	wealth	ザイ、（サイ）
+3	罪	guilt	ザイ、つみ
+3	崎	promontory	さき
+3	作	make	サク、サ、つく-る
+3	削	plane	サク、けず-る
+3	昨	previous	サク
+3	柵	fence	サク
+3	索	cord	サク
+3	策	scheme	サク
+3	酢	vinegar	サク、す
+3	搾	squeeze	サク、しぼ-る
+3	錯	confused	サク
+3	咲	blossom	さ-く
+3	冊	counter for books	サツ、サク
+3	札	tag	サツ、ふだ
+3	刷	printing	サツ、す-る
+3	刹	temple	サツ、セツ
+3	拶	be imminent	サツ
+3	殺	kill	サツ、（サイ）、（セツ）、ころ-す
+3	察	guess	サツ
+3	撮	snapshot	サツ、と-る
+3	擦	grate	サツ、す-る、す-れる
+3	雑	miscellaneous	ザツ、ゾウ
+3	皿	dish	さら
+3	三	three	サン、み、み-つ、みっ-つ
+3	山	mountain	サン、やま
+3	参	participate	サン、まい-る
+3	桟	scaffold	サン
+3	蚕	silkworm	サン、かいこ
+3	惨	wretched	サン、ザン、みじ-め
+3	産	give birth	サン、う-む、う-まれる、うぶ
+3	傘	umbrella	サン、かさ
+3	散	scatter	サン、ち-る、ち-らす、ち-らかす、ち-らかる
+3	算	calculate	サン
+3	酸	acid	サン、す-い
+3	賛	approve	サン
+3	残	remainder	ザン、のこ-る、のこ-す
+3	斬	kill by slicing	ザン、き-る
+3	暫	temporarily	ザン
+3	士	gentleman	シ
+3	子	child	シ、ス、こ
+3	支	branch	シ、ささ-える
+3	止	stop	シ、と-まる、と-める
+3	氏	family name	シ、うじ
+3	仕	do	シ、（ジ）、つか-える
+3	史	history	シ
+3	司	director	シ
+3	四	four	シ、よ、よ-つ、よっ-つ、よん
+3	市	market	シ、いち
+3	矢	arrow	シ、や
+3	旨	delicious	シ、むね
+3	死	death	シ、し-ぬ
+3	糸	thread	シ、いと
+3	至	climax	シ、いた-る
+3	伺	pay respects	シ、うかが-う
+3	志	intention	シ、こころざ-す、こころざし
+3	私	me	シ、わたくし、わたし
+3	使	use	シ、つか-う
+3	刺	thorn	シ、さ-す、さ-さる
+3	始	begin	シ、はじ-める、はじ-まる
+3	姉	older sister	シ、あね
+3	枝	branch	シ、えだ
+3	祉	welfare	シ
+3	肢	limb	シ
+3	姿	figure	シ、すがた
+3	思	think	シ、おも-う
+3	指	finger	シ、ゆび、さ-す
+3	施	carry out	シ、セ、ほどこ-す
+3	師	expert	シ
+3	恣	selfish	シ
+3	紙	paper	シ、かみ
+3	脂	fat	シ、あぶら
+3	視	look at	シ
+3	紫	purple	シ、むらさき
+3	詞	poetry	シ
+3	歯	tooth	シ、は
+3	嗣	heir	シ
+3	試	test	シ、こころ-みる、ため-す
+3	詩	poem	シ
+3	資	resources	シ
+3	飼	domesticate	シ、か-う
+3	誌	document	シ
+3	雌	feminine	シ、め、めす
+3	摯	seriousness	シ
+3	賜	grant	シ、たまわ-る
+3	諮	consult with	シ、はか-る
+3	示	indicate	ジ、シ、しめ-す
+3	字	letter	ジ、あざ
+3	寺	Buddhist temple	ジ、てら
+3	次	next	ジ、シ、つ-ぐ、つぎ
+3	耳	ear	ジ、みみ
+3	自	oneself	ジ、シ、みずか-ら
+3	似	becoming	ジ、に-る
+3	児	child	ジ、（ニ）
+3	事	abstract thing	ジ、（ズ）、こと
+3	侍	waiter	ジ、さむらい
+3	治	govern	ジ、チ、おさ-める、おさ-まる、なお-る、なお-す
+3	持	hold	ジ、も-つ
+3	時	time	ジ、とき
+3	滋	nourishing	ジ
+3	慈	mercy	ジ、いつく-しむ
+3	辞	resign	ジ、や-める
+3	磁	magnet	ジ
+3	餌 [8]	bait	ジ、えさ、え
+3	璽	emperor's seal	ジ
+3	鹿	deer	しか、（か）、ロク
+3	式	style	シキ
+3	識	discriminating	シキ
+3	軸	axis	ジク
+3	七	seven	シチ、なな、なな-つ、（なの）
+3	𠮟 [5]	scold	シツ、しか-る
+3	失	lose	シツ、うしな-う
+3	室	room	シツ、むろ
+3	疾	rapidly	シツ
+3	執	tenacious	シツ、シュウ、と-る
+3	湿	damp	シツ、しめ-る、しめ-す
+3	嫉	envy	シツ
+3	漆	lacquer	シツ、うるし
+3	質	quality	シツ、シチ、（チ）
+3	実	truth	ジツ、み、みの-る
+3	芝	turf	しば
+3	写	copy	シャ、うつ-す、うつ-る
+3	社	company	シャ、やしろ
+3	車	car	シャ、くるま
+3	舎	cottage	シャ
+3	者	someone	シャ、もの
+3	射	shoot	シャ、い-る
+3	捨	throw away	シャ、す-てる
+3	赦	pardon	シャ
+3	斜	diagonal	シャ、なな-め
+3	煮	boil	シャ、に-る、に-える、に-やす
+3	遮	intercept	シャ、さえぎ-る
+3	謝	apologize	シャ、あやま-る
+3	邪	wicked	ジャ
+3	蛇	snake	ジャ、ダ、へび
+3	尺	shaku	シャク
+3	借	borrow	シャク、か-りる
+3	酌	bartending	シャク、く-む
+3	釈	explanation	シャク
+3	爵	baron	シャク
+3	若	young	ジャク、（ニャク）、わか-い、も-しくは
+3	弱	weak	ジャク、よわ-い、よわ-る、よわ-まる、よわ-める
+3	寂	loneliness	ジャク、（セキ）、さび、さび-しい、さび-れる
+3	手	hand	シュ、て、（た）
+3	主	master	シュ、（ス）、ぬし、おも
+3	守	protect	シュ、（ス）、まも-る、も-り
+3	朱	vermilion	シュ
+3	取	take	シュ、と-る
+3	狩	hunt	シュ、か-る、か-り
+3	首	neck	シュ、くび
+3	殊	particularly	シュ、こと
+3	珠	pearl	シュ
+3	酒	alcoholic drink	シュ、さけ、（さか）
+3	腫	tumor	シュ、は-れる、は-らす
+3	種	kind	シュ、たね
+3	趣	gist	シュ、おもむき
+3	寿	longevity	ジュ、ことぶき
+3	受	accept	ジュ、う-ける、う-かる
+3	呪	curse	ジュ、のろ-う
+3	授	instruct	ジュ、さず-ける、さず-かる
+3	需	demand	ジュ
+3	儒	Confucian	ジュ
+3	樹	trees	ジュ
+3	収	take in	シュウ、おさ-める、おさ-まる
+3	囚	captured	シュウ
+3	州	state	シュウ、す
+3	舟	boat	シュウ、ふね、（ふな）
+3	秀	excel	シュウ、ひい-でる
+3	周	circumference	シュウ、まわ-り
+3	宗	religion	シュウ、ソウ
+3	拾	pick up	シュウ、ジュウ、ひろ-う
+3	秋	autumn	シュウ、あき
+3	臭	stinking	シュウ、くさ-い、にお-う
+3	修	discipline	シュウ、（シュ）、おさ-める、おさ-まる
+3	袖	sleeve	シュウ、そで
+3	終	end	シュウ、お-わる、お-える
+3	羞	feel ashamed	シュウ
+3	習	learn	シュウ、なら-う
+3	週	week	シュウ
+3	就	concerning	シュウ、（ジュ）、つ-く、つ-ける
+3	衆	masses	シュウ、（シュ）
+3	集	collect	シュウ、あつ-まる、あつ-める、つど-う
+3	愁	distress	シュウ、うれ-える、うれ-い
+3	酬	repay	シュウ
+3	醜	ugly	シュウ、みにく-い
+3	蹴	kick	シュウ、け-る
+3	襲	attack	シュウ、おそ-う
+3	十	ten	ジュウ、ジッ、とお、と
+3	汁	soup	ジュウ、しる
+3	充	allot	ジュウ、あ-てる
+3	住	dwelling	ジュウ、す-む、す-まう
+3	柔	tender	ジュウ、ニュウ、やわ-らか、やわ-らかい
+3	重	heavy	ジュウ、チョウ、え、おも-い、かさ-ねる、かさ-なる
+3	従	obey	ジュウ、（ショウ）、（ジュ）、したが-う、したが-える
+3	渋	astringent	ジュウ、しぶ、しぶ-い、しぶ-る
+3	銃	gun	ジュウ
+3	獣	animal	ジュウ、けもの
+3	縦	vertical	ジュウ、たて
+3	叔	uncle	シュク
+3	祝	celebrate	シュク、（シュウ）、いわ-う
+3	宿	inn	シュク、やど、やど-る、やど-す
+3	淑	graceful	シュク
+3	粛	solemn	シュク
+3	縮	shrink	シュク、ちぢ-む、ちぢ-まる、ちぢ-める、ちぢ-れる、ちぢ-らす
+3	塾	cram school	ジュク
+3	熟	ripen	ジュク、う-れる
+3	出	exit	シュツ、（スイ）、で-る、だ-す
+3	述	mention	ジュツ、の-べる
+3	術	art	ジュツ
+3	俊	genius	シュン
+3	春	springtime	シュン、はる
+3	瞬	wink	シュン、またた-く
+3	旬	10-day period (of the month)	ジュン、（シュン）
+3	巡	patrol	ジュン、めぐ-る
+3	盾	shield	ジュン、たて
+3	准	quasi-	ジュン
+3	殉	martyrdom	ジュン
+3	純	genuine	ジュン
+3	循	sequential	ジュン
+3	順	obey	ジュン
+3	準	standard	ジュン
+3	潤	wet	ジュン、うるお-う、うるお-す、うる-む
+3	遵	abide by	ジュン
+3	処	dispose	ショ
+3	初	first	ショ、はじ-め、はじ-めて、はつ、うい、そ-める
+3	所	place	ショ、ところ
+3	書	write	ショ、か-く
+3	庶	commoner	ショ
+3	暑	hot	ショ、あつ-い
+3	署	government office	ショ
+3	緒	thong	ショ、（チョ）、お
+3	諸	various	ショ
+3	女	woman	ジョ、ニョ、（ニョウ）、おんな、め
+3	如	likeness	ジョ、ニョ
+3	助	help	ジョ、たす-ける、たす-かる、すけ
+3	序	preface	ジョ
+3	叙	confer	ジョ
+3	徐	gradually	ジョ
+3	除	exclude	ジョ、（ジ）、のぞ-く
+3	小	small	ショウ、ちい-さい、こ、お
+3	升	measuring box	ショウ、ます
+3	少	few	ショウ、すく-ない、すこ-し
+3	召	summon	ショウ、め-す
+3	匠	artisan	ショウ
+3	床	bed	ショウ、とこ、ゆか
+3	抄	extract	ショウ
+3	肖	resemblance	ショウ
+3	尚	esteem	ショウ
+3	招	beckon	ショウ、まね-く
+3	承	acquiesce	ショウ、うけたまわ-る
+3	昇	rise up	ショウ、のぼ-る
+3	松	pine	ショウ、まつ
+3	沼	marsh	ショウ、ぬま
+3	昭	shining	ショウ
+3	宵	wee hours	ショウ、よい
+3	将	leader	ショウ
+3	消	extinguish	ショウ、き-える、け-す
+3	症	symptoms	ショウ
+3	祥	auspicious	ショウ
+3	称	appellation	ショウ
+3	笑	laugh	ショウ、わら-う、え-む
+3	唱	chant	ショウ、とな-える
+3	商	sell	ショウ、あきな-う
+3	渉	ford	ショウ
+3	章	chapter	ショウ
+3	紹	introduce	ショウ
+3	訟	sue	ショウ
+3	勝	win	ショウ、か-つ、まさ-る
+3	掌	manipulate	ショウ
+3	晶	sparkle	ショウ
+3	焼	bake	ショウ、や-く、や-ける
+3	焦	char	ショウ、こ-げる、こ-がす、こ-がれる、あせ-る
+3	硝	nitrate	ショウ
+3	粧	cosmetics	ショウ
+3	詔	imperial edict	ショウ、みことのり
+3	証	evidence	ショウ
+3	象	elephant	ショウ、ゾウ
+3	傷	wound	ショウ、きず、いた-む、いた-める
+3	奨	exhort	ショウ
+3	照	illuminate	ショウ、て-る、て-らす、て-れる
+3	詳	detailed	ショウ、くわ-しい
+3	彰	patent	ショウ
+3	障	hurt	ショウ、さわ-る
+3	憧	desire	ショウ、あこが-れる
+3	衝	collide	ショウ
+3	賞	prize	ショウ
+3	償	reparation	ショウ、つぐな-う
+3	礁	reef	ショウ
+3	鐘	bell	ショウ、かね
+3	上	up	ジョウ、（ショウ）、うえ、（うわ）、かみ、あ-げる、あ-がる、のぼ-る、のぼ-せる、のぼ-す
+3	丈	length	ジョウ、たけ
+3	冗	superfluous	ジョウ
+3	条	clause	ジョウ
+3	状	form	ジョウ
+3	乗	ride	ジョウ、の-る、の-せる
+3	城	castle	ジョウ、しろ
+3	浄	clean	ジョウ
+3	剰	surplus	ジョウ
+3	常	normal	ジョウ、つね、とこ
+3	情	feelings	ジョウ、（セイ）、なさ-け
+3	場	place	ジョウ、ば
+3	畳	tatami mat	ジョウ、たた-む、たたみ
+3	蒸	steam	ジョウ、む-す、む-れる、む-らす
+3	縄	straw rope	ジョウ、なわ
+3	壌	lot	ジョウ
+3	嬢	lass	ジョウ
+3	錠	lock	ジョウ
+3	譲	defer	ジョウ、ゆず-る
+3	醸	brew	ジョウ、かも-す
+3	色	color	ショク、シキ、いろ
+3	拭	wipe	ショク、ふ-く、ぬぐ-う
+3	食	eat, meal	ショク、（ジキ）、く-う、く-らう、た-べる
+3	植	plant	ショク、う-える、う-わる
+3	殖	augment	ショク、ふ-える、ふ-やす
+3	飾	decorate	ショク、かざ-る
+3	触	contact	ショク、ふ-れる、さわ-る
+3	嘱	entrust	ショク
+3	織	weave	ショク、シキ、お-る
+3	職	employment	ショク
+3	辱	embarrass	ジョク、はずかし-める
+3	尻	buttocks	しり
+3	心	heart	シン、こころ
+3	申	say	シン、もう-す
+3	伸	lengthen	シン、の-びる、の-ばす、の-べる
+3	臣	retainer	シン、ジン
+3	芯	core	シン
+3	身	body	シン、み
+3	辛	spicy	シン、から-い
+3	侵	encroach	シン、おか-す
+3	信	trust	シン
+3	津	haven	シン、つ
+3	神	god	シン、ジン、かみ、（かん）、（こう）
+3	唇	lips	シン、くちびる
+3	娠	with child	シン
+3	振	shake	シン、ふ-る、ふ-るう、ふ-れる
+3	浸	immersed	シン、ひた-す、ひた-る
+3	真	true	シン、ま
+3	針	needle	シン、はり
+3	深	deep	シン、ふか-い、ふか-まる、ふか-める
+3	紳	sire	シン
+3	進	advance	シン、すす-む、すす-める
+3	森	forest	シン、もり
+3	診	checkup	シン、み-る
+3	寝	lie down	シン、ね-る、ね-かす
+3	慎	humility	シン、つつし-む
+3	新	new	シン、あたら-しい、あら-た、にい
+3	審	examine	シン
+3	震	quake	シン、ふる-う、ふる-える
+3	薪	fuel	シン、たきぎ
+3	親	parent	シン、おや、した-しい、した-しむ
+3	人	person	ジン、ニン、ひと
+3	刃	blade	ジン、は
+3	仁	humanity	ジン、（ニ）
+3	尽	exhaust	ジン、つ-くす、つ-きる、つ-かす
+3	迅	swift	ジン
+3	甚	tremendously	ジン、はなは-だ、はなは-だしい
+3	陣	camp	ジン
+3	尋	inquire	ジン、たず-ねる
+3	腎	kidney	ジン
+3	須	by all means	ス
+3	図	diagram	ズ、ト、はか-る
+3	水	water	スイ、みず
+3	吹	blow	スイ、ふ-く
+3	垂	droop	スイ、た-れる、た-らす
+3	炊	cook	スイ、た-く
+3	帥	commander	スイ
+3	粋	chic	スイ、いき
+3	衰	decline	スイ、おとろ-える
+3	推	infer	スイ、お-す
+3	酔	drunk	スイ、よ-う
+3	遂	consummate	スイ、と-げる
+3	睡	drowsy	スイ
+3	穂	ear	スイ、ほ
+3	随	follow	ズイ
+3	髄	marrow	ズイ
+3	枢	hinge	スウ
+3	崇	adore	スウ
+3	数	number	スウ、（ス）、かず、かぞ-える
+3	据	set	す-える、す-わる
+3	杉	cedar	すぎ
+3	裾	cuff	すそ
+3	寸	measurement	スン
+3	瀬	rapids	せ
+3	是	just so	ゼ
+3	井	well	セイ、（ショウ）、い
+3	世	world	セイ、セ、よ
+3	正	correct	セイ、ショウ、ただ-しい、ただ-す、まさ
+3	生	life	セイ、ショウ、い-きる、い-かす、い-ける、う-まれる、う-む、お-う、は-える、は-やす、き、なま
+3	成	become	セイ、（ジョウ）、な-る、な-す
+3	西	west	セイ、サイ、にし
+3	声	voice	セイ、（ショウ）、こえ、（こわ）
+3	制	control	セイ
+3	姓	surname	セイ、ショウ
+3	征	subjugate	セイ
+3	性	gender	セイ、ショウ
+3	青	blue	セイ、（ショウ）、あお、あお-い
+3	斉	adjusted	セイ
+3	政	politics	セイ、（ショウ）、まつりごと
+3	星	star	セイ、（ショウ）、ほし
+3	牲	animal sacrifice	セイ
+3	省	government ministry	セイ、ショウ、かえり-みる、はぶ-く
+3	凄	uncanny	セイ
+3	逝	departed	セイ、ゆ-く、い-く
+3	清	pure	セイ、（ショウ）、きよ-い、きよ-まる、きよ-める
+3	盛	prosper	セイ、（ジョウ）、も-る、さか-る、さか-ん
+3	婿	bridegroom	セイ、むこ
+3	晴	clear up	セイ、は-れる、は-らす
+3	勢	power	セイ、いきお-い
+3	聖	holy	セイ
+3	誠	sincerity	セイ、まこと
+3	精	refined	セイ、（ショウ）
+3	製	manufacture	セイ
+3	誓	vow	セイ、ちか-う
+3	静	quiet	セイ、（ジョウ）、しず、しず-か、しず-まる、しず-める
+3	請	solicit	セイ、（シン）、こ-う、う-ける
+3	整	put in order	セイ、ととの-える、ととの-う
+3	醒	be disillusioned	セイ
+3	税	tax	ゼイ
+3	夕	evening	セキ、ゆう
+3	斥	reject	セキ
+3	石	stone	セキ、（シャク）、（コク）、いし
+3	赤	red	セキ、（シャク）、あか、あか-い、あか-らむ、あか-らめる
+3	昔	long ago	セキ、（シャク）、むかし
+3	析	chop	セキ
+3	席	seat	セキ
+3	脊	stature	セキ
+3	隻	vessels	セキ
+3	惜	pity	セキ、お-しい、お-しむ
+3	戚	grieve	セキ
+3	責	blame	セキ、せ-める
+3	跡	tracks	セキ、あと
+3	積	accumulate	セキ、つ-む、つ-もる
+3	績	exploits	セキ
+3	籍	enroll	セキ
+3	切	cut	セツ、（サイ）、き-る、き-れる
+3	折	fold	セツ、お-る、おり、お-れる
+3	拙	bungling	セツ、つたな-い
+3	窃	stealth	セツ
+3	接	contact	セツ、つ-ぐ
+3	設	establish	セツ、もう-ける
+3	雪	snow	セツ、ゆき
+3	摂	vicarious	セツ
+3	節	node	セツ、（セチ）、ふし
+3	説	theory	セツ、（ゼイ）、と-く
+3	舌	tongue	ゼツ、した
+3	絶	discontinue	ゼツ、た-える、た-やす、た-つ
+3	千	thousand	セン、ち
+3	川	river	セン、かわ
+3	仙	hermit	セン
+3	占	fortune telling	セン、し-める、うらな-う
+3	先	previous	セン、さき
+3	宣	proclaim	セン
+3	専	specialty	セン、もっぱ-ら
+3	泉	spring	セン、いずみ
+3	浅	shallow	セン、あさ-い
+3	洗	wash	セン、あら-う
+3	染	dye	セン、そ-める、そ-まる、し-みる、し-み
+3	扇	fan	セン、おうぎ
+3	栓	plug	セン
+3	旋	rotation	セン
+3	船	boat	セン、ふね、（ふな）
+3	戦	war	セン、いくさ、たたか-う
+3	煎 [7]	broil	セン、い-る
+3	羨	envy	セン、うらや-む、うらや-ましい
+3	腺	gland	セン
+3	詮 [7]	discussion	セン
+3	践	tread	セン
+3	箋	paper	セン
+3	銭	coin	セン、ぜに
+3	潜	submerge	セン、ひそ-む、もぐ-る
+3	線	line	セン
+3	遷	transition	セン
+3	選	choose	セン、えら-ぶ
+3	薦	recommend	セン、すす-める
+3	繊	slender	セン
+3	鮮	fresh	セン、あざ-やか
+3	全	whole	ゼン、まった-く、すべ-て
+3	前	in front	ゼン、まえ
+3	善	good	ゼン、よ-い
+3	然	so	ゼン、ネン
+3	禅	Zen	ゼン
+3	漸	steadily	ゼン
+3	膳	tray	ゼン
+3	繕	darning	ゼン、つくろ-う
+3	狙	aim at	ソ、ねら-う
+3	阻	thwart	ソ、はば-む
+3	祖	ancestor	ソ
+3	租	tariff	ソ
+3	素	elementary	ソ、ス
+3	措	set aside	ソ
+3	粗	coarse	ソ、あら-い
+3	組	association	ソ、く-む、くみ
+3	疎	alienate	ソ、うと-い、うと-む
+3	訴	sue	ソ、うった-える
+3	塑	model	ソ
+3	遡 [8]	go upstream	ソ、さかのぼ-る
+3	礎	cornerstone	ソ、いしずえ
+3	双	pair	ソウ、ふた
+3	壮	robust	ソウ
+3	早	early	ソウ、（サッ）、はや-い、はや-まる、はや-める
+3	争	conflict	ソウ、あらそ-う
+3	走	run	ソウ、はし-る
+3	奏	play music	ソウ、かな-でる
+3	相	mutual	ソウ、ショウ、あい
+3	荘	villa	ソウ
+3	草	grass	ソウ、くさ
+3	送	send	ソウ、おく-る
+3	倉	warehouse	ソウ、くら
+3	捜	search	ソウ、さが-す
+3	挿	insert	ソウ、さ-す
+3	桑	mulberry	ソウ、くわ
+3	巣	nest	ソウ、す
+3	掃	sweep	ソウ、は-く
+3	曹	cadet	ソウ
+3	曽	formerly	ソウ、（ゾ）
+3	爽	refreshing	ソウ、さわ-やか
+3	窓	window	ソウ、まど
+3	創	create	ソウ、つく-る
+3	喪	miss	ソウ、も
+3	痩	get thin	ソウ、や-せる
+3	葬	interment	ソウ、ほうむ-る
+3	装	attire	ソウ、ショウ、よそお-う
+3	僧	Buddhist priest	ソウ
+3	想	concept	ソウ、（ソ）
+3	層	stratum	ソウ
+3	総	whole	ソウ
+3	遭	encounter	ソウ、あ-う
+3	槽	vat	ソウ
+3	踪	remains	ソウ
+3	操	maneuver	ソウ、みさお、あやつ-る
+3	燥	parch	ソウ
+3	霜	frost	ソウ、しも
+3	騒	boisterous	ソウ、さわ-ぐ
+3	藻	seaweed	ソウ、も
+3	造	create	ゾウ、つく-る
+3	像	statue	ゾウ
+3	増	increase	ゾウ、ま-す、ふ-える、ふ-やす
+3	憎	hate	ゾウ、にく-む、にく-い、にく-らしい、にく-しみ
+3	蔵	warehouse	ゾウ、くら
+3	贈	presents	ゾウ、（ソウ）、おく-る
+3	臓	entrails	ゾウ
+3	即	instant	ソク
+3	束	bundle	ソク、たば
+3	足	foot	ソク、あし、た-りる、た-る、た-す
+3	促	stimulate	ソク、うなが-す
+3	則	rule	ソク
+3	息	breath	ソク、いき
+3	捉	capture	ソク、とら-える
+3	速	fast	ソク、はや-い、はや-める、はや-まる、すみ-やか
+3	側	side	ソク、がわ
+3	測	fathom	ソク、はか-る
+3	俗	vulgar	ゾク
+3	族	tribe	ゾク
+3	属	belong	ゾク
+3	賊	burglar	ゾク
+3	続	continue	ゾク、つづ-く、つづ-ける
+3	卒	graduate	ソツ
+3	率	rate	ソツ、リツ、ひき-いる
+3	存	suppose	ソン、ゾン
+3	村	village	ソン、むら
+3	孫	grandchild	ソン、まご
+3	尊	revered	ソン、たっと-い、とうと-い、たっと-ぶ、とうと-ぶ
+3	損	loss	ソン、そこ-なう、そこ-ねる
+3	遜 [8]	humble	ソン
+3	他	other	タ、ほか
+3	多	many	タ、おお-い
+3	汰	luxury	タ
+3	打	hit	ダ、う-つ
+3	妥	gentle	ダ
+3	唾	saliva	ダ、つば
+3	堕	degenerate	ダ
+3	惰	lazy	ダ
+3	駄	burdensome	ダ
+3	太	thick	タイ、タ、ふと-い、ふと-る
+3	対	opposite	タイ、ツイ
+3	体	body	タイ、テイ、からだ
+3	耐	resistant	タイ、た-える
+3	待	wait	タイ、ま-つ
+3	怠	neglect	タイ、おこた-る、なま-ける
+3	胎	womb	タイ
+3	退	retreat	タイ、しりぞ-く、しりぞ-ける
+3	帯	sash	タイ、お-びる、おび
+3	泰	peaceful	タイ
+3	堆	piled high	タイ
+3	袋	sack	タイ、ふくろ
+3	逮	apprehend	タイ
+3	替	exchange	タイ、か-える、か-わる
+3	貸	lend	タイ、か-す
+3	隊	group	タイ
+3	滞	stagnate	タイ、とどこお-る
+3	態	condition	タイ
+3	戴	be crowned with	タイ
+3	大	large	ダイ、タイ、おお、おお-きい、おお-いに
+3	代	substitute	ダイ、タイ、か-わる、か-える、よ、しろ
+3	台	pedestal	ダイ、タイ
+3	第	ordinal number prefix	ダイ
+3	題	topic	ダイ
+3	滝	waterfall	たき
+3	宅	home	タク
+3	択	choose	タク
+3	沢	swamp	タク、さわ
+3	卓	eminent	タク
+3	拓	clear (the land)	タク
+3	託	consign	タク
+3	濯	laundry	タク
+3	諾	consent	ダク
+3	濁	voiced	ダク、にご-る、にご-す
+3	但	however	ただ-し
+3	達	attain	タツ
+3	脱	undress	ダツ、ぬ-ぐ、ぬ-げる
+3	奪	rob	ダツ、うば-う
+3	棚	shelf	たな
+3	誰	who (question word)	だれ
+3	丹	cinnabar	タン
+3	旦	daybreak	タン、ダン
+3	担	shouldering	タン、かつ-ぐ、にな-う
+3	単	simple	タン
+3	炭	charcoal	タン、すみ
+3	胆	gall bladder	タン
+3	探	grope	タン、さぐ-る、さが-す
+3	淡	thin	タン、あわ-い
+3	短	short	タン、みじか-い
+3	嘆	sigh	タン、なげ-く、なげ-かわしい
+3	端	edge	タン、はし、は、はた
+3	綻	rip	タン、ほころ-びる
+3	誕	nativity	タン
+3	鍛	forge	タン、きた-える
+3	団	group	ダン、（トン）
+3	男	male	ダン、ナン、おとこ
+3	段	steps	ダン
+3	断	cut off	ダン、た-つ、ことわ-る
+3	弾	bullet	ダン、ひ-く、はず-む、たま
+3	暖	warmth	ダン、あたた-か、あたた-かい、あたた-まる、あたた-める
+3	談	discuss	ダン
+3	壇	podium	ダン、（タン）
+3	地	ground	チ、ジ
+3	池	pond	チ、いけ
+3	知	know	チ、し-る
+3	値	value	チ、ね、あたい
+3	恥	shame	チ、は-じる、はじ、は-じらう、は-ずかしい
+3	致	(to) do	チ、いた-す
+3	遅	slow	チ、おく-れる、おく-らす、おそ-い
+3	痴	stupid	チ
+3	稚	immature	チ
+3	置	put	チ、お-く
+3	緻	fine (not coarse)	チ
+3	竹	bamboo	チク、たけ
+3	畜	livestock	チク
+3	逐	pursue	チク
+3	蓄	amass	チク、たくわ-える
+3	築	fabricate	チク、きず-く
+3	秩	regularity	チツ
+3	窒	plug up	チツ
+3	茶	tea	チャ、サ
+3	着	wear	チャク、（ジャク）、き-る、き-せる、つ-く、つ-ける
+3	嫡	legitimate wife	チャク
+3	中	middle	チュウ、（ジュウ）、なか
+3	仲	relationship	チュウ、なか
+3	虫	insect	チュウ、むし
+3	沖	open sea	チュウ、おき
+3	宙	mid-air	チュウ
+3	忠	loyalty	チュウ
+3	抽	pluck	チュウ
+3	注	pour	チュウ、そそ-ぐ
+3	昼	daytime	チュウ、ひる
+3	柱	pillar	チュウ、はしら
+3	衷	inmost	チュウ
+3	酎	sake	チュウ
+3	鋳	casting	チュウ、い-る
+3	駐	stop-over	チュウ
+3	著	renowned	チョ、あらわ-す、いちじる-しい
+3	貯	savings	チョ
+3	丁	ward	チョウ、テイ
+3	弔	condolences	チョウ、とむら-う
+3	庁	government office	チョウ
+3	兆	portent, trillion	チョウ、きざ-す、きざ-し
+3	町	town	チョウ、まち
+3	長	long	チョウ、なが-い
+3	挑	challenge	チョウ、いど-む
+3	帳	account book	チョウ
+3	張	stretch	チョウ、は-る
+3	彫	carve	チョウ、ほ-る
+3	眺	stare	チョウ、なが-める
+3	釣	angling	チョウ、つ-る
+3	頂	place on the head	チョウ、いただ-く、いただき
+3	鳥	bird	チョウ、とり
+3	朝	morning	チョウ、あさ
+3	貼	paste	チョウ、は-る
+3	超	transcend	チョウ、こ-える、こ-す
+3	腸	intestines	チョウ
+3	跳	hop	チョウ、は-ねる、と-ぶ
+3	徴	indications	チョウ
+3	嘲 [7]	ridicule	チョウ、あざけ-る
+3	潮	tide	チョウ、しお
+3	澄	lucidity	チョウ、す-む、す-ます
+3	調	investigate	チョウ、しら-べる、ととの-う、ととの-える
+3	聴	listen	チョウ、き-く
+3	懲	penal	チョウ、こ-りる、こ-らす、こ-らしめる
+3	直	straight	チョク、ジキ、ただ-ちに、なお-す、なお-る
+3	勅	imperial order	チョク
+3	捗 [7]	make progress	チョク
+3	沈	sink	チン、しず-む、しず-める
+3	珍	rare	チン、めずら-しい
+3	朕	majestic plural	チン
+3	陳	exhibit	チン
+3	賃	fare	チン
+3	鎮	tranquilize	チン、しず-める、しず-まる
+3	追	follow	ツイ、お-う
+3	椎	oak	ツイ
+3	墜	crash	ツイ
+3	通	pass through	ツウ、（ツ）、とお-る、とお-す、かよ-う
+3	痛	pain	ツウ、いた-い、いた-む、いた-める
+3	塚	hillock	つか
+3	漬	pickling	つ-ける、つ-かる
+3	坪	two-mat area	つぼ
+3	爪	claw	つめ、（つま）
+3	鶴	crane	つる
+3	低	low	テイ、ひく-い、ひく-める、ひく-まる
+3	呈	display	テイ
+3	廷	courts	テイ
+3	弟	younger brother	テイ、（ダイ）、（デ）、おとうと
+3	定	decide	テイ、ジョウ、さだ-める、さだ-まる、さだ-か
+3	底	bottom	テイ、そこ
+3	抵	resist	テイ
+3	邸	residence	テイ
+3	亭	pavilion	テイ
+3	貞	upright	テイ
+3	帝	sovereign	テイ
+3	訂	revise	テイ
+3	庭	garden	テイ、にわ
+3	逓	relay	テイ
+3	停	halt	テイ
+3	偵	spy	テイ
+3	堤	dike	テイ、つつみ
+3	提	present	テイ、さ-げる
+3	程	extent	テイ、ほど
+3	艇	rowboat	テイ
+3	締	tighten	テイ、し-まる、し-める
+3	諦	abandon	テイ、あきら-める
+3	泥	mud	デイ、どろ
+3	的	target	テキ、まと
+3	笛	flute	テキ、ふえ
+3	摘	pinch	テキ、つ-む
+3	滴	drip	テキ、しずく、したた-る
+3	適	suitable	テキ
+3	敵	enemy	テキ、かたき
+3	溺 [7]	drown	デキ、おぼ-れる
+3	迭	transfer	テツ
+3	哲	philosophy	テツ
+3	鉄	iron	テツ
+3	徹	penetrate	テツ
+3	撤	remove	テツ
+3	天	heaven	テン、あめ、（あま）
+3	典	code	テン
+3	店	shop	テン、みせ
+3	点	point	テン
+3	展	expand	テン
+3	添	annexed	テン、そ-える、そ-う
+3	転	revolve	テン、ころ-がる、ころ-げる、ころ-がす、ころ-ぶ
+3	塡 [7]	fill in	テン
+3	田	rice paddy	デン、た
+3	伝	transmit	デン、つた-わる、つた-える、つた-う
+3	殿	Mr.	デン、テン、との、どの
+3	電	electricity	デン
+3	斗	Big Dipper	ト
+3	吐	spit	ト、は-く
+3	妬	jealousy	ト、ねた-む
+3	徒	junior	ト
+3	途	route	ト
+3	都	metropolis	ト、ツ、みやこ
+3	渡	transit	ト、わた-る、わた-す
+3	塗	paint	ト、ぬ-る
+3	賭 [7]	gamble	ト、か-ける
+3	土	soil	ド、ト、つち
+3	奴	guy	ド
+3	努	toil	ド、つと-める
+3	度	degrees	ド、（ト）、（タク）、たび
+3	怒	angry	ド、いか-る、おこ-る
+3	刀	sword	トウ、かたな
+3	冬	winter	トウ、ふゆ
+3	灯	lamp	トウ、ひ
+3	当	hit	トウ、あ-たる、あ-てる
+3	投	throw	トウ、な-げる
+3	豆	beans	トウ、（ズ）、まめ
+3	東	east	トウ、ひがし
+3	到	arrival	トウ
+3	逃	escape	トウ、に-げる、に-がす、のが-す、のが-れる
+3	倒	overthrow	トウ、たお-れる、たお-す
+3	凍	frozen	トウ、こお-る、こご-える
+3	唐	T'ang	トウ、から
+3	島	island	トウ、しま
+3	桃	peach tree	トウ、もも
+3	討	chastise	トウ、う-つ
+3	透	transparent	トウ、す-く、す-かす、す-ける
+3	党	group	トウ
+3	悼	lament	トウ、いた-む
+3	盗	steal	トウ、ぬす-む
+3	陶	pottery	トウ
+3	塔	pagoda	トウ
+3	搭	board	トウ
+3	棟	ridgepole	トウ、むね、（むな）
+3	湯	hot water	トウ、ゆ
+3	痘	pox	トウ
+3	登	climb	トウ、ト、のぼ-る
+3	答	answer	トウ、こた-える、こた-え
+3	等	class	トウ、ひと-しい
+3	筒	cylinder	トウ、つつ
+3	統	unite	トウ、す-べる
+3	稲	rice plant	トウ、いね、（いな）
+3	踏	step	トウ、ふ-む、ふ-まえる
+3	糖	sugar	トウ
+3	頭	head	トウ、ズ、（ト）、あたま、かしら
+3	謄	mimeograph	トウ
+3	藤	wisteria	トウ、ふじ
+3	闘	fight	トウ、たたか-う
+3	騰	inflation	トウ
+3	同	same	ドウ、おな-じ
+3	洞	den	ドウ、ほら
+3	胴	trunk	ドウ
+3	動	move	ドウ、うご-く、うご-かす
+3	堂	public chamber	ドウ
+3	童	juvenile	ドウ、わらべ
+3	道	road	ドウ、（トウ）、みち
+3	働	work	ドウ、はたら-く
+3	銅	copper	ドウ
+3	導	guide	ドウ、みちび-く
+3	瞳	pupil	ドウ、ひとみ
+3	峠	mountain peak	とうげ
+3	匿	hide	トク
+3	特	special	トク
+3	得	acquire	トク、え-る、う-る
+3	督	coach	トク
+3	徳	benevolence	トク
+3	篤	fervent	トク
+3	毒	poison	ドク
+3	独	alone	ドク、ひと-り
+3	読	read	ドク、トク、（トウ）、よ-む
+3	栃 [5]	horse chestnut	（とち）[6]
+3	凸	convex	トツ
+3	突	stab	トツ、つ-く
+3	届	deliver	とど-ける、とど-く
+3	屯	barracks	トン
+3	豚	pork	トン、ぶた
+3	頓	suddenly	トン
+3	貪	covet	ドン、むさぼ-る
+3	鈍	dull	ドン、にぶ-い、にぶ-る
+3	曇	cloudy weather	ドン、くも-る
+3	丼	bowl of food	どんぶり、（どん）
+3	那	what	ナ
+3	奈	what	ナ
+3	内	inside	ナイ、（ダイ）、うち
+3	梨	pear tree	なし
+3	謎 [8]	riddle	なぞ
+3	鍋	pot	なべ
+3	南	south	ナン、（ナ）、みなみ
+3	軟	soft	ナン、やわ-らか、やわ-らかい
+3	難	difficult	ナン、かた-い、むずか-しい
+3	二	two	ニ、ふた、ふた-つ
+3	尼	nun	ニ、あま
+3	弐	two (falsification prevention)	ニ
+3	匂	scent	にお-う
+3	肉	meat	ニク
+3	虹	rainbow	にじ
+3	日	day	ニチ、ジツ、ひ、か
+3	入	enter	ニュウ、い-る、い-れる、はい-る
+3	乳	milk	ニュウ、ちち、ち
+3	尿	urine	ニョウ
+3	任	responsibility	ニン、まか-せる、まか-す
+3	妊	pregnancy	ニン
+3	忍	endure	ニン、しの-ぶ、しの-ばせる
+3	認	recognize	ニン、みと-める
+3	寧	rather	ネイ
+3	熱	heat	ネツ、あつ-い
+3	年	year	ネン、とし
+3	念	thought	ネン
+3	捻	twist	ネン、ひね-る
+3	粘	sticky	ネン、ねば-る
+3	燃	burn	ネン、も-える、も-やす、も-す
+3	悩	trouble	ノウ、なや-む、なや-ます
+3	納	settlement	ノウ、（ナッ）、（ナ）、（ナン）、（トウ）、おさ-める、おさ-まる
+3	能	ability	ノウ
+3	脳	brain	ノウ
+3	農	farming	ノウ
+3	濃	concentrated	ノウ、こ-い
+3	把	grasp	ハ
+3	波	wave	ハ、なみ
+3	派	sect	ハ
+3	破	rend	ハ、やぶ-る、やぶ-れる
+3	覇	hegemony	ハ
+3	馬	horse	バ、うま、（ま）
+3	婆	old woman	バ
+3	罵	insult	バ、ののし-る
+3	拝	worship	ハイ、おが-む
+3	杯	counter for cupfuls	ハイ、さかずき
+3	背	back	ハイ、せ、せい、そむ-く、そむ-ける
+3	肺	lungs	ハイ
+3	俳	haiku	ハイ
+3	配	distribute	ハイ、くば-る
+3	排	repudiate	ハイ
+3	敗	failure	ハイ、やぶ-れる
+3	廃	abolish	ハイ、すた-れる、すた-る
+3	輩	comrade	ハイ
+3	売	sell	バイ、う-る、う-れる
+3	倍	double	バイ
+3	梅	ume (Japanese apricot)	バイ、うめ
+3	培	cultivate	バイ、つちか-う
+3	陪	obeisance	バイ
+3	媒	mediator	バイ
+3	買	buy	バイ、か-う
+3	賠	compensation	バイ
+3	白	white	ハク、ビャク、しろ、（しら）、しろ-い
+3	伯	chief	ハク
+3	拍	clap	ハク、（ヒョウ）
+3	泊	overnight	ハク、と-まる、と-める
+3	迫	urge	ハク、せま-る
+3	剝 [7]	peel	ハク、は-がす、は-ぐ、は-がれる、は-げる
+3	舶	liner	ハク
+3	博	Dr.	ハク、（バク）
+3	薄	dilute	ハク、うす-い、うす-める、うす-まる、うす-らぐ、うす-れる
+3	麦	wheat	バク、むぎ
+3	漠	vague	バク
+3	縛	truss	バク、しば-る
+3	爆	explode	バク
+3	箱	box	はこ
+3	箸 [7]	chopsticks	はし
+3	畑	farm	はた、はたけ
+3	肌	texture	はだ
+3	八	eight	ハチ、や、や-つ、やっ-つ、（よう）
+3	鉢	bowl	ハチ、（ハツ）
+3	発	departure	ハツ、ホツ
+3	髪	hair of the head	ハツ、かみ
+3	伐	fell	バツ
+3	抜	slip out	バツ、ぬ-く、ぬ-ける、ぬ-かす、ぬ-かる
+3	罰	penalty	バツ、バチ
+3	閥	clique	バツ
+3	反	anti-	ハン、（ホン）、（タン）、そ-る、そ-らす
+3	半	half	ハン、なか-ば
+3	氾	spread out	ハン
+3	犯	crime	ハン、おか-す
+3	帆	sail	ハン、ほ
+3	汎	pan-	ハン
+3	伴	consort	ハン、バン、ともな-う
+3	判	judge	ハン、バン
+3	坂	slope	ハン、さか
+3	阪	heights	ハン
+3	板	board	ハン、バン、いた
+3	版	printing block	ハン
+3	班	squad	ハン
+3	畔	paddy-ridge	ハン
+3	般	generally	ハン
+3	販	marketing	ハン
+3	斑	blemish	ハン
+3	飯	meal	ハン、めし
+3	搬	conveyor	ハン
+3	煩	anxiety	ハン、（ボン）、わずら-う、わずら-わす
+3	頒	partition	ハン
+3	範	pattern	ハン
+3	繁	luxuriant	ハン
+3	藩	clan	ハン
+3	晩	nightfall	バン
+3	番	one's turn	バン
+3	蛮	barbarian	バン
+3	盤	tray	バン
+3	比	compare	ヒ、くら-べる
+3	皮	skin	ヒ、かわ
+3	妃	queen	ヒ
+3	否	negate	ヒ、いな
+3	批	criticism	ヒ
+3	彼	he	ヒ、かれ、（かの）
+3	披	expose	ヒ
+3	肥	fertilizer	ヒ、こ-える、こえ、こ-やす、こ-やし
+3	非	negative	ヒ
+3	卑	lowly	ヒ、いや-しい、いや-しむ、いや-しめる
+3	飛	fly	ヒ、と-ぶ、と-ばす
+3	疲	exhausted	ヒ、つか-れる
+3	秘	secret	ヒ、ひ-める
+3	被	incur	ヒ、こうむ-る
+3	悲	sad	ヒ、かな-しい、かな-しむ
+3	扉	front door	ヒ、とびら
+3	費	expense	ヒ、つい-やす、つい-える
+3	碑	tombstone	ヒ
+3	罷	quit	ヒ
+3	避	evade	ヒ、さ-ける
+3	尾	tail	ビ、お
+3	眉	eyebrow	ビ、（ミ）、まゆ
+3	美	beauty	ビ、うつく-しい
+3	備	provide	ビ、そな-える、そな-わる
+3	微	delicate	ビ
+3	鼻	nose	ビ、はな
+3	膝	knee	ひざ
+3	肘	elbow	ひじ
+3	匹	equal	ヒツ、ひき
+3	必	without fail	ヒツ、かなら-ず
+3	泌	ooze	ヒツ、ヒ
+3	筆	writing brush	ヒツ、ふで
+3	姫	princess	ひめ
+3	百	hundred	ヒャク
+3	氷	ice	ヒョウ、こおり、ひ
+3	表	express	ヒョウ、おもて、あらわ-す、あらわ-れる
+3	俵	bag	ヒョウ、たわら
+3	票	ballot	ヒョウ
+3	評	evaluate	ヒョウ
+3	漂	drift	ヒョウ、ただよ-う
+3	標	signpost	ヒョウ
+3	苗	seedling	ビョウ、なえ、（なわ）
+3	秒	second (part of time)	ビョウ
+3	病	sick	ビョウ、（ヘイ）、や-む、やまい
+3	描	sketch	ビョウ、えが-く、か-く
+3	猫	cat	ビョウ、ねこ
+3	品	article	ヒン、しな
+3	浜	seacoast	ヒン、はま
+3	貧	poor	ヒン、ビン、まず-しい
+3	賓	V.I.P.	ヒン
+3	頻	repeatedly	ヒン
+3	敏	cleverness	ビン
+3	瓶	flower pot	ビン
+3	不	non-	フ、ブ
+3	夫	husband	フ、（フウ）、おっと
+3	父	father	フ、ちち
+3	付	attach	フ、つ-ける、つ-く
+3	布	linen	フ、ぬの
+3	扶	aid	フ
+3	府	urban prefecture	フ
+3	怖	dreadful	フ、こわ-い
+3	阜	mound	（フ）[6]
+3	附	affixed	フ
+3	訃	obituary	フ
+3	負	lose	フ、ま-ける、ま-かす、お-う
+3	赴	proceed	フ、おもむ-く
+3	浮	floating	フ、う-く、う-かれる、う-かぶ、う-かべる
+3	婦	lady	フ
+3	符	token	フ
+3	富	rich	フ、（フウ）、と-む、とみ
+3	普	universal	フ
+3	腐	rot	フ、くさ-る、くさ-れる、くさ-らす
+3	敷	spread	フ、し-く
+3	膚	skin	フ
+3	賦	levy	フ
+3	譜	musical score	フ
+3	侮	scorn	ブ、あなど-る
+3	武	military	ブ、ム
+3	部	part	ブ
+3	舞	dance	ブ、ま-う、まい
+3	封	seal	フウ、ホウ
+3	風	wind	フウ、（フ）、かぜ、（かざ）
+3	伏	prostrated	フク、ふ-せる、ふ-す
+3	服	clothes	フク
+3	副	vice	フク
+3	幅	breadth	フク、はば
+3	復	again	フク
+3	福	luck	フク
+3	腹	abdomen	フク、はら
+3	複	duplicate	フク
+3	覆	capsize	フク、おお-う、くつがえ-す、くつがえ-る
+3	払	pay	フツ、はら-う
+3	沸	seethe	フツ、わ-く、わ-かす
+3	仏	Buddha	ブツ、ほとけ
+3	物	thing	ブツ、モツ、もの
+3	粉	flour	フン、こ、こな
+3	紛	distract	フン、まぎ-れる、まぎ-らす、まぎ-らわす、まぎ-らわしい
+3	雰	atmosphere	フン
+3	噴	erupt	フン、ふ-く
+3	墳	tomb	フン
+3	憤	aroused	フン、いきどお-る
+3	奮	stirred up	フン、ふる-う
+3	分	part, minute of time	ブン、フン、ブ、わ-ける、わ-かれる、わ-かる、わ-かつ
+3	文	writing	ブン、モン、ふみ
+3	聞	hear	ブン、モン、き-く、き-こえる
+3	丙	third class	ヘイ
+3	平	flat	ヘイ、ビョウ、たい-ら、ひら
+3	兵	soldier	ヘイ、ヒョウ
+3	併	join	ヘイ、あわ-せる
+3	並	line-up	ヘイ、なみ、なら-べる、なら-ぶ、なら-びに
+3	柄	design	ヘイ、がら、え
+3	陛	highness	ヘイ
+3	閉	closed	ヘイ、と-じる、と-ざす、し-める、し-まる
+3	塀	fence	ヘイ
+3	幣	cash	ヘイ
+3	弊	abuse	ヘイ
+3	蔽 [7]	cover	ヘイ
+3	餅 [8]	mochi rice cake	ヘイ、もち
+3	米	rice	ベイ、マイ、こめ
+3	壁	wall	ヘキ、かべ
+3	璧	sphere	ヘキ
+3	癖	mannerism	ヘキ、くせ
+3	別	separate	ベツ、わか-れる
+3	蔑	ignore	ベツ、さげす-む
+3	片	one-sided	ヘン、かた
+3	辺	environs	ヘン、あた-り、べ
+3	返	return	ヘン、かえ-す、かえ-る
+3	変	change	ヘン、か-わる、か-える
+3	偏	partial	ヘン、かたよ-る
+3	遍	everywhere	ヘン
+3	編	compile	ヘン、あ-む
+3	弁
+3	便	convenience	ベン、ビン、たよ-り
+3	勉	exertion	ベン
+3	歩	walk	ホ、ブ、（フ）、ある-く、あゆ-む
+3	保	preserve	ホ、たも-つ
+3	哺	suckle	ホ
+3	捕	catch	ホ、と-らえる、と-らわれる、と-る、つか-まえる、つか-まる
+3	補	supplement	ホ、おぎな-う
+3	舗	pavement	ホ
+3	母	mother	ボ、はは
+3	募	recruit	ボ、つの-る
+3	墓	grave	ボ、はか
+3	慕	pining	ボ、した-う
+3	暮	livelihood	ボ、く-れる、く-らす
+3	簿	register	ボ
+3	方	direction	ホウ、かた
+3	包	wrap	ホウ、つつ-む
+3	芳	perfume	ホウ、かんば-しい
+3	邦	home country	ホウ
+3	奉	observance	ホウ、（ブ）、たてまつ-る
+3	宝	treasure	ホウ、たから
+3	抱	embrace	ホウ、だ-く、いだ-く、かか-える
+3	放	release	ホウ、はな-す、はな-つ、はな-れる、ほう-る
+3	法	method	ホウ、（ハッ）、（ホッ）
+3	泡	bubbles	ホウ、あわ
+3	胞	placenta	ホウ
+3	俸	salary	ホウ
+3	倣	emulate	ホウ、なら-う
+3	峰	summit	ホウ、みね
+3	砲	cannon	ホウ
+3	崩	crumble	ホウ、くず-れる、くず-す
+3	訪	visit	ホウ、おとず-れる、たず-ねる
+3	報	report	ホウ、むく-いる
+3	蜂	bee	ホウ、はち
+3	豊	bountiful	ホウ、ゆた-か
+3	飽	sated	ホウ、あ-きる、あ-かす
+3	褒	praise	ホウ、ほ-める
+3	縫	sew	ホウ、ぬ-う
+3	亡	deceased	ボウ、（モウ）、な-い
+3	乏	scarce	ボウ、とぼ-しい
+3	忙	busy	ボウ、いそが-しい
+3	坊	boy	ボウ、（ボッ）
+3	妨	disturb	ボウ、さまた-げる
+3	忘	forget	ボウ、わす-れる
+3	防	prevent	ボウ、ふせ-ぐ
+3	房	tassel	ボウ、ふさ
+3	肪	obese	ボウ
+3	某	so-and-so	ボウ
+3	冒	risk	ボウ、おか-す
+3	剖	divide	ボウ
+3	紡	spinning	ボウ、つむ-ぐ
+3	望	hope	ボウ、モウ、のぞ-む
+3	傍	bystander	ボウ、かたわ-ら
+3	帽	cap	ボウ
+3	棒	rod	ボウ
+3	貿	trade	ボウ
+3	貌	appearance	ボウ
+3	暴	outburst	ボウ、（バク）、あば-く、あば-れる
+3	膨	swell	ボウ、ふく-らむ、ふく-れる
+3	謀	conspire	ボウ、（ム）、はか-る
+3	頰	cheek	ほお
+3	北	north	ホク、きた
+3	木	tree	ボク、モク、き、（こ）
+3	朴	crude	ボク
+3	牧	breed	ボク、まき
+3	睦	harmonious	ボク
+3	僕	me	ボク
+3	墨	black ink	ボク、すみ
+3	撲	slap	ボク
+3	没	drown	ボツ
+3	勃	rise	ボツ
+3	堀	ditch	ほり
+3	本	book	ホン、もと
+3	奔	bustle	ホン
+3	翻	flip	ホン、ひるがえ-る、ひるがえ-す
+3	凡	mediocre	ボン、（ハン）
+3	盆	basin	ボン
+3	麻	hemp	マ、あさ
+3	摩	chafe	マ
+3	磨	grind	マ、みが-く
+3	魔	witch	マ
+3	毎	every	マイ
+3	妹	younger sister	マイ、いもうと
+3	枚	sheet of...	マイ
+3	昧	foolish	マイ
+3	埋	bury	マイ、う-める、う-まる、う-もれる
+3	幕	curtain	マク、バク
+3	膜	membrane	マク
+3	枕	pillow	まくら
+3	又	or again	また
+3	末	end	マツ、バツ、すえ
+3	抹	rub	マツ
+3	万	ten thousand	マン、バン
+3	満	full	マン、み-ちる、み-たす
+3	慢	ridicule	マン
+3	漫	cartoon	マン
+3	未	not yet	ミ
+3	味	flavor	ミ、あじ、あじ-わう
+3	魅	fascination	ミ
+3	岬	headland	みさき
+3	密	secrecy	ミツ
+3	蜜	honey	ミツ
+3	脈	vein	ミャク
+3	妙	exquisite	ミョウ
+3	民	people	ミン、たみ
+3	眠	sleep	ミン、ねむ-る、ねむ-い
+3	矛	halberd	ム、ほこ
+3	務	duty	ム、つと-める、つと-まる
+3	無	nothing	ム、ブ、な-い
+3	夢	dream	ム、ゆめ
+3	霧	fog	ム、きり
+3	娘	daughter	むすめ
+3	名	name	メイ、ミョウ、な
+3	命	fate	メイ、ミョウ、いのち
+3	明	bright	メイ、ミョウ、あ-かり、あか-るい、あか-るむ、あか-らむ、あき-らか、あ-ける、あ-く、あ-くる、あ-かす
+3	迷	astray	メイ、まよ-う
+3	冥	dark	メイ、ミョウ
+3	盟	alliance	メイ
+3	銘	inscription	メイ
+3	鳴	chirp	メイ、な-く、な-る、な-らす
+3	滅	destroy	メツ、ほろ-びる、ほろ-ぼす
+3	免	excuse	メン、まぬか-れる
+3	面	face	メン、おも、おもて、つら
+3	綿	cotton	メン、わた
+3	麺	noodles	メン
+3	茂	overgrown	モ、しげ-る
+3	模	imitation	モ、ボ
+3	毛	hair	モウ、け
+3	妄	delusion	モウ、ボウ
+3	盲	blind	モウ
+3	耗	decrease	モウ、（コウ）
+3	猛	fierce	モウ
+3	網	netting	モウ、あみ
+3	目	eye	モク、（ボク）、め、（ま）
+3	黙	silence	モク、だま-る
+3	門	gates	モン、かど
+3	紋	family crest	モン
+3	問	question	モン、と-う、と-い、（とん）
+3	冶	melting	ヤ
+3	夜	night	ヤ、よ、よる
+3	野	field	ヤ、の
+3	弥	all the more	や
+3	厄	unlucky	ヤク
+3	役	service	ヤク、エキ
+3	約	promise	ヤク
+3	訳	translate	ヤク、わけ
+3	薬	medicine	ヤク、くすり
+3	躍	leap	ヤク、おど-る
+3	闇	darkness	やみ
+3	由	reason	ユ、ユウ、（ユイ）、よし
+3	油	oil	ユ、あぶら
+3	喩	metaphor	ユ
+3	愉	pleasure	ユ
+3	諭	rebuke	ユ、さと-す
+3	輸	transport	ユ
+3	癒	healing	ユ、い-える、い-やす
+3	唯	solely	ユイ、（イ）
+3	友	friend	ユウ、とも
+3	有	have	ユウ、ウ、あ-る
+3	勇	courage	ユウ、いさ-む
+3	幽	seclude	ユウ
+3	悠	permanence	ユウ
+3	郵	mail	ユウ
+3	湧	boil	ユウ、わ-く
+3	猶	furthermore	ユウ
+3	裕	abundant	ユウ
+3	遊	play	ユウ、（ユ）、あそ-ぶ
+3	雄	male	ユウ、お、おす
+3	誘	entice	ユウ、さそ-う
+3	憂	melancholy	ユウ、うれ-える、うれ-い、う-い
+3	融	dissolve	ユウ
+3	優	superior	ユウ、やさ-しい、すぐ-れる
+3	与	give	ヨ、あた-える
+3	予	in advance	ヨ
+3	余	leave over	ヨ、あま-る、あま-す
+3	誉	reputation	ヨ、ほま-れ
+3	預	deposit	ヨ、あず-ける、あず-かる
+3	幼	infancy	ヨウ、おさな-い
+3	用	use	ヨウ、もち-いる
+3	羊	sheep	ヨウ、ひつじ
+3	妖	bewitching	ヨウ、あや-しい
+3	洋	ocean	ヨウ
+3	要	need	ヨウ、かなめ、い-る
+3	容	contain	ヨウ
+3	庸	commonplace	ヨウ
+3	揚	hoist	ヨウ、あ-げる、あ-がる
+3	揺	swing	ヨウ、ゆ-れる、ゆ-る、ゆ-らぐ、ゆ-るぐ、ゆ-する、ゆ-さぶる、ゆ-すぶる
+3	葉	leaf	ヨウ、は
+3	陽	sunshine	ヨウ
+3	溶	melt	ヨウ、と-ける、と-かす、と-く
+3	腰	loins	ヨウ、こし
+3	様	formal title	ヨウ、さま
+3	瘍	boil (medical)	ヨウ
+3	踊	jump	ヨウ、おど-る、おど-り
+3	窯	kiln	ヨウ、かま
+3	養	foster	ヨウ、やしな-う
+3	擁	embrace	ヨウ
+3	謡	noh chanting	ヨウ、うたい、うた-う
+3	曜	day of the week	ヨウ
+3	抑	repress	ヨク、おさ-える
+3	沃	fertility	ヨク
+3	浴	bathe	ヨク、あ-びる、あ-びせる
+3	欲	longing	ヨク、ほっ-する、ほ-しい
+3	翌	the following	ヨク
+3	翼	wing	ヨク、つばさ
+3	拉	crush	ラ
+3	裸	naked	ラ、はだか
+3	羅	gauze	ラ
+3	来	come	ライ、く-る、きた-る、きた-す
+3	雷	thunder	ライ、かみなり
+3	頼	trust	ライ、たの-む、たの-もしい、たよ-る
+3	絡	entwine	ラク、から-む、から-まる、から-める
+3	落	fall	ラク、お-ちる、お-とす
+3	酪	dairy products	ラク
+3	辣	bitter	ラツ
+3	乱	riot	ラン、みだ-れる、みだ-す
+3	卵	egg	ラン、たまご
+3	覧	perusal	ラン
+3	濫	excessive	ラン
+3	藍	indigo	ラン、あい
+3	欄	column	ラン
+3	吏	officer	リ
+3	利	profit	リ、き-く
+3	里	village	リ、さと
+3	理	reason	リ
+3	痢	diarrhea	リ
+3	裏	back	リ、うら
+3	履	footgear	リ、は-く
+3	璃	glassy	リ
+3	離	detach	リ、はな-れる、はな-す
+3	陸	land	リク
+3	立	stand up	リツ、（リュウ）、た-つ、た-てる
+3	律	law	リツ、（リチ）
+3	慄	fear	リツ
+3	略	abbreviation	リャク
+3	柳	willow	リュウ、やなぎ
+3	流	stream	リュウ、（ル）、なが-れる、なが-す
+3	留	detain	リュウ、（ル）、と-める、と-まる
+3	竜	dragon	リュウ、たつ
+3	粒	grains	リュウ、つぶ
+3	隆	hump	リュウ
+3	硫	sulphur	リュウ
+3	侶	companion	リョ
+3	旅	trip	リョ、たび
+3	虜	captive	リョ
+3	慮	prudence	リョ
+3	了	finish	リョウ
+3	両	both	リョウ
+3	良	good	リョウ、よ-い
+3	料	fee	リョウ
+3	涼	refreshing	リョウ、すず-しい、すず-む
+3	猟	game-hunting	リョウ
+3	陵	mausoleum	リョウ、みささぎ
+3	量	quantity	リョウ、はか-る
+3	僚	colleague	リョウ
+3	領	territory	リョウ
+3	寮	dormitory	リョウ
+3	療	heal	リョウ
+3	瞭	clear	リョウ
+3	糧	provisions	リョウ、（ロウ）、かて
+3	力	power	リョク、リキ、ちから
+3	緑	green	リョク、（ロク）、みどり
+3	林	woods	リン、はやし
+3	厘	thousandth	リン
+3	倫	ethics	リン
+3	輪	wheel	リン、わ
+3	隣	neighboring	リン、とな-る、となり
+3	臨	look to	リン、のぞ-む
+3	瑠	lapis lazuli	ル
+3	涙	tears	ルイ、なみだ
+3	累	accumulate	ルイ
+3	塁	bases	ルイ
+3	類	sort	ルイ、たぐ-い
+3	令	orders	レイ
+3	礼	thanks	レイ、ライ
+3	冷	cool	レイ、つめ-たい、ひ-える、ひ-や、ひ-やす、ひ-やかす、さ-める、さ-ます
+3	励	encourage	レイ、はげ-む、はげ-ます
+3	戻	re-	レイ、もど-す、もど-る
+3	例	example	レイ、たと-える
+3	鈴	small bell	レイ、リン、すず
+3	零	zero	レイ
+3	霊	spirits	レイ、リョウ、たま
+3	隷	slave	レイ
+3	齢	age	レイ
+3	麗	lovely	レイ、うるわ-しい
+3	暦	calendar	レキ、こよみ
+3	歴	curriculum	レキ
+3	列	row	レツ
+3	劣	inferiority	レツ、おと-る
+3	烈	ardent	レツ
+3	裂	split	レツ、さ-く、さ-ける
+3	恋	romance	レン、こ-う、こい、こい-しい
+3	連	take along	レン、つら-なる、つら-ねる、つ-れる
+3	廉	bargain	レン
+3	練	practice	レン、ね-る
+3	錬	tempering	レン
+3	呂	spine	ロ
+3	炉	hearth	ロ
+3	賂	bribe	ロ
+3	路	road	ロ、じ
+3	露	dew	ロ、（ロウ）、つゆ
+3	老	old man	ロウ、お-いる、ふ-ける
+3	労	labour	ロウ
+3	弄	tamper with	ロウ、もてあそ-ぶ
+3	郎	son	ロウ
+3	朗	melodious	ロウ、ほが-らか
+3	浪	wandering	ロウ
+3	廊	corridor	ロウ
+3	楼	watchtower	ロウ
+3	漏	leak	ロウ、も-る、も-れる、も-らす
+3	籠	basket	ロウ、かご、こ-もる
+3	六	six	ロク、む、む-つ、むっ-つ、（むい）
+3	録	record	ロク
+3	麓	foot of a mountain	ロク、ふもと
+3	論	theory	ロン
+3	和	peace	ワ、（オ）、やわ-らぐ、やわ-らげる、なご-む、なご-やか
+3	話	talk	ワ、はな-す、はなし
+3	賄	bribe	ワイ、まかな-う
+3	脇	aside,armpit	わき
+3	惑	beguile	ワク、まど-う
+3	枠	frame	わく
+3	湾	gulf	ワン
+3	腕	arm	ワン、うで

@@ -1,0 +1,10 @@
+3	亜	sub-	ア
+3	哀	pathetic	アイ、あわ-れ、あわ-れむ
+1	挨	push open	アイ
+1	愛	love	アイ
+2	曖	not clear	アイ
+2	悪	bad	アク、オ、わる-い
+4	握	grip	アク、にぎ-る
+4	圧	pressure	アツ
+5	扱	handle	あつか-う
+5	宛	allocate	あ-てる
