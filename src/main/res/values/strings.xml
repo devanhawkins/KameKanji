@@ -3,6 +3,8 @@
     <string name="app_on">ON</string>
     <string name="app_off">OFF</string>
     <string name="new_Card">NEW CARD</string>
+    <string name="new_know">KNOW</string>
+    <string name="new_nope">NOPE</string>
     <string name="channel_name">Periodic Cards</string>
     <string name="channel_desc">The cards themselves. The main purpose of the app.</string>
     <string name="tier1">This is a tricky one. Do you remember it?</string>
