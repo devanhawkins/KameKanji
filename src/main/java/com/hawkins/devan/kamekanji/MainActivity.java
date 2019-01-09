@@ -54,11 +54,12 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //Load deck. Only one, default deck for now.
-        //Create default deck if no deck in internal storage decks.
+        //Check internal storage for save file. If one isn't found, initialize one from the assets.
 
         String filename_assets = "joyo_example.txt"; //Change to _internal after.
         String filename_internal = "statistics";
         File savFile = new File(getApplicationContext().getFilesDir(), filename_internal);
+
 
 
         String text = new String();
@@ -68,14 +69,22 @@ public class MainActivity extends AppCompatActivity {
         if(text.equals("")){
             Toast.makeText(MainActivity.this, "Loading for the first time (Assets)",
                     Toast.LENGTH_SHORT).show();
-            text = loadFromTxtFile(filename_assets);
+
 
             //Save the txt file data to internal storage if no internal storage data.
             FileOutputStream outputStream;
 
+
             try{
+                //text = loadFromTxtFile(filename_assets);
+                BufferedReader br = new BufferedReader(new InputStreamReader(openFileInput(filename_assets)));
+                String line;
+                while((line = br.readLine()) != null){
+                    text = text + line + "\n";
+                }
+
                 outputStream = openFileOutput(filename_internal, Context.MODE_PRIVATE);
-                outputStream.write(text.getBytes());
+                outputStream.write(text.toString().getBytes());
                 outputStream.close();
             } catch(Exception e){
                 e.printStackTrace();
@@ -88,7 +97,8 @@ public class MainActivity extends AppCompatActivity {
             filename = filename_internal;
         }
 
-        filename = filename_assets;//should be filename_internal
+        //filename = filename_assets;
+          filename = filename_internal;
 
         //String testDeck = new String(readFromFile(this, "N3.txt"));
 
@@ -113,7 +123,8 @@ public class MainActivity extends AppCompatActivity {
 
         try {
             //Access the file (read)
-            reader = new BufferedReader(new InputStreamReader(getAssets().open(filename)));
+            //reader = new BufferedReader(new InputStreamReader(getAssets().open(filename)));
+            reader = new BufferedReader(new InputStreamReader(openFileInput(filename)));
 
             //Read all lines in input file, save into 'oldContent' variable
             String line = "";
@@ -130,7 +141,9 @@ public class MainActivity extends AppCompatActivity {
                     //If the right kanji, but the weight is already capped out at max (5), keep
                     //the 'newContent' string an empty string.
                     if (parts[0].equals("5")) {
-                        //Maxed out, do nothing.
+                        //Maxed out, pass the info back as is.
+                        newContent = parts[0] + "\t" + parts[1] + "\t" + parts[2] + "\t" + parts[3]
+                                + "\r\n";
                     } else {
                         //If not maxed out, increase weight by 1, making it LESS likely to appear
                         //Sorry for the mixing of terminology!
@@ -182,139 +195,97 @@ public class MainActivity extends AppCompatActivity {
                 n.printStackTrace();
             }
         }
-
-
-            //Increase the value of the desired kanji's statistical weight.
-
-
-        /* FAILED ATTEMPT #2
-        //Read file to search for kanji
-
-        try{
-
-            //OutputStreamWriter outputStreamWriter = new OutputStreamWriter(getApplicationContext().openFileOutput(filename, Context.MODE_PRIVATE));
-            //File file = this.getFileStreamPath("joyo_example.txt");
-            //FileWriter fw = new FileWriter(file);
-
-            AssetManager assetManager = getBaseContext().getAssets();
-            InputStream in = assetManager.open(filename);
-            BufferedReader br = new BufferedReader(new InputStreamReader(in));
-            String line;
-            String spec_line = "";
-            String updated_line = "";
-            String[] parts;
-
-            BufferedWriter fw = new BufferedWriter(new FileWriter(new File(filename)));
-            //StringBuffer sb = new StringBuffer();
-
-            //Read the file using InputStream
-            while((line = br.readLine()) != null){
-                //Find the desired kanji and save the modified line into 'updated_line'.
-                parts = line.split("\\t");
-                if(parts[1].equals(kanji)) {
-
-                    spec_line = line;
-                    if (parts[0].equals("5")) {
-                        //Don't add to the tier
-                        fw.append(line);
-                        fw.append('\n');
-                    } else {
-                        int new_tier = Integer.parseInt(parts[0]);
-                        new_tier = new_tier + 1;
-                        parts[0] = Integer.toString(new_tier);
-                        String newline = parts[0] + "\t" + parts[1] + "\t" + parts[2] + "\t" + parts[3]
-                                + "\r\n";
-                        updated_line = newline;
-                        fw.append(line);
-                        fw.append('\n');
-
-                        //test
-                        Context context = getApplicationContext();
-                        String txt = newline;
-                        int duration = Toast.LENGTH_SHORT;
-                        Toast toast = Toast.makeText(context, txt, duration);
-                        toast.show();
-
-                    }
-                }
-
-            }
-            String inputString = fw.toString();
-            System.out.println(inputString);
-            fw.write(inputString);
-            fw.close();
-            br.close();
-
-
-            //Now with the outputReader, save the modified line into the text.
-
-            //File savFile = new File(view.getContext().getFilesDir(), filename);
-            //FileOutputStream outputStream = new FileOutputStream("joyo_example");
-
-
-            FileOutputStream outputStream = openFileOutput(filename,Context.MODE_PRIVATE);
-
-            inputString = inputString.replace(spec_line, updated_line);
-            //System.out.println(inputString);//test
-            outputStream.write(inputString.getBytes());
-            outputStream.close();
-            //String inputString = sb.toString();
-            //file.close();
-
-            /*
-
-            /* FAILED ATTEMPT #1
-
-            //Replace the desired kanji's statistical weight
-            while ((line = .readLine()) != null){
-
-                parts = line.split("\\t");
-                if(parts[1].equals(kanji)){
-                    //If already max (5), then finish
-                    if(parts[0].equals("5")){
-                        //Do nothing
-                    }else {
-                        //When we find the right line, increase the tier
-                        int new_tier = Integer.parseInt(parts[0]);
-                        new_tier++;
-                        parts[0] = Integer.toString(new_tier);
-                        String newline = parts[0] + "\t" + parts[1] + "\t" + parts[2] + "\t" + parts[3]
-                                + "\r\n";
-                        temp_txt += newline;
-                        outputStream.write(newline.getBytes());
-
-                        //test
-                        Context context = getApplicationContext();
-                        String txt = newline;
-                        int duration = Toast.LENGTH_SHORT;
-                        Toast toast = Toast.makeText(context, txt, duration);
-                        toast.show();
-                    }
-                }else{
-                    //copy as is.
-                    temp_txt += line + "\r\n";
-                    //outputStream.write(temp_txt.getBytes());
-                }
-                outputStream.write(temp_txt.getBytes());
-            }
-            //outputStreamWriter.write(temp_txt);
-
-            outputStream.close();
-            in.close();
-            br.close();
-
-
-
-        }catch(FileNotFoundException e){
-            e.printStackTrace();
-        }catch(IOException e){
-            e.printStackTrace();
-        }
-        */
     }
 
-    private  void nopeAction(View view){
+    private  void nopeAction(View view, String kanji){
 
+        //Used when User responds with the "Nope" button; they
+        //don't recognize or understand the kanji.
+        // Writes to the deck's text file, decreasing the value of the weight.
+        // Stat weight moves towards 1.
+
+        //File fileToBeModified = this.getFileStreamPath(filename);
+        String oldContent = "";
+        String newContent = "";
+        BufferedReader reader = null;
+        FileWriter writer = null;
+        String[] parts;
+        boolean updateTheFile = false;
+
+        try {
+            //Access the file (read)
+            //reader = new BufferedReader(new InputStreamReader(getAssets().open(filename)));
+            reader = new BufferedReader(new InputStreamReader(openFileInput(filename)));
+
+            //Read all lines in input file, save into 'oldContent' variable
+            String line = "";
+            while ((line = reader.readLine()) != null) {
+
+
+                //Check if this is the right kanji character.
+                parts = line.split("\\t");
+                System.out.println(line);
+                if (parts[1].equals(kanji)) {
+
+                    updateTheFile = true;
+
+                    //If the right kanji, but the weight is already capped out at max (1), keep
+                    //the 'newContent' string an empty string.
+                    if (parts[0].equals("1")) {
+                        //Maxed out, pass the info back as is.
+                        newContent = parts[0] + "\t" + parts[1] + "\t" + parts[2] + "\t" + parts[3]
+                                + "\r\n";
+                    } else {
+                        //If not maxed out, increase weight by 1, making it LESS likely to appear
+                        //Sorry for the mixing of terminology!
+                        int new_tier = Integer.parseInt(parts[0]);
+                        new_tier = new_tier - 1;
+                        parts[0] = Integer.toString(new_tier);
+                        newContent = parts[0] + "\t" + parts[1] + "\t" + parts[2] + "\t" + parts[3]
+                                + "\r\n";
+
+                        //test
+                        Context context = getApplicationContext();
+                        String txt = newContent;
+                        int duration = Toast.LENGTH_SHORT;
+                        Toast toast = Toast.makeText(context, txt, duration);
+                        toast.show();
+                    }
+
+                }
+
+                //Add line to old content string.
+
+                if(updateTheFile==true){
+                    oldContent = oldContent + newContent;
+                }else{
+                    oldContent = oldContent + line + '\n';  //Is a new line needed here?
+                }
+
+                updateTheFile = false;
+
+            }
+
+            //Write to the same file, using 'oldContent' string.
+            FileOutputStream outStream = openFileOutput(filename, Context.MODE_PRIVATE);
+            outStream.write(oldContent.getBytes());
+            outStream.close();
+            //writer = new FileWriter(this.getFileStreamPath(filename));
+            //writer.write(oldContent);
+
+        }catch(IOException e) {
+            e.printStackTrace();
+        }finally {
+            try {
+                //Closing everything
+                reader.close();
+                //writer.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            } catch(NullPointerException n){
+                n.printStackTrace();
+            }
+        }
     }
 
     /** Creates and sends out the notification **/
@@ -377,7 +348,16 @@ public class MainActivity extends AppCompatActivity {
     public void newCard(View view){
         //Pumps out a new card to practice at will.
         setUp();
-        knowAction(view, notifInfo[0]); //for testing
+    }
+
+    public void newCardKnow(View view){
+        setUp();
+        knowAction(view, notifInfo[0]);
+    }
+
+    public void newCardNope(View view){
+        setUp();
+        nopeAction(view, notifInfo[0]);
     }
 
     /** Make a flashcard to be turned into a notification**/
@@ -392,7 +372,8 @@ public class MainActivity extends AppCompatActivity {
 
         try{
             AssetManager assetManager = getBaseContext().getAssets();
-            InputStream in = assetManager.open(filename);
+            //InputStream in = assetManager.open(filename);
+            InputStream in = openFileInput(filename);
             BufferedReader br = new BufferedReader(new InputStreamReader(in));
             //LineNumberReader lnr = new LineNumberReader(br);
             String line;
@@ -501,7 +482,8 @@ public class MainActivity extends AppCompatActivity {
         //Search through dictionary to the i-th element of the tier.
         try {
             AssetManager assetManager = getBaseContext().getAssets();
-            InputStream in = assetManager.open(filename);
+            //InputStream in = assetManager.open(filename);
+            InputStream in = openFileInput(filename);
             BufferedReader br = new BufferedReader(new InputStreamReader(in));
             //LineNumberReader lnr = new LineNumberReader(br);
             String line;
