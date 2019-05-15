@@ -24,7 +24,7 @@
         android:layout_width="100dp"
         android:layout_height="75dp"
         android:layout_marginStart="112dp"
-        android:layout_marginTop="172dp"
+        android:layout_marginTop="224dp"
         android:onClick="newCard"
         android:text="@string/new_Card"
         app:layout_constraintEnd_toEndOf="@id/button_id"
@@ -63,6 +63,21 @@
         android:orientation="vertical"
         app:layout_constraintGuide_begin="-7dp"
         app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="177dp"
+        android:layout_height="49dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="CurrentKanji"
+        android:textSize="32dp"
+        app:layout_constraintBottom_toTopOf="@+id/button_id3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_id" />
 
 
 </android.support.constraint.ConstraintLayout>

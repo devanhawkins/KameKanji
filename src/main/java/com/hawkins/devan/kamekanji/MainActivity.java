@@ -4,6 +4,7 @@ import android.app.NotificationChannel;
 import android.app.NotificationManager;
 import android.app.PendingIntent;
 import android.app.TaskStackBuilder;
+import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.content.res.AssetManager;
@@ -106,8 +107,7 @@ public class MainActivity extends AppCompatActivity {
         //setUp();
     }
 
-
-    private void knowAction(View view, String kanji){
+    public void knowAction(View view, String kanji){
         //Used when User responds with the "Know" button; they
         //already recognize and understand the kanji.
         // Writes to the deck's text file, increasing the value of the weight.
@@ -153,12 +153,7 @@ public class MainActivity extends AppCompatActivity {
                         newContent = parts[0] + "\t" + parts[1] + "\t" + parts[2] + "\t" + parts[3]
                                 + "\r\n";
 
-                        //test
-                        Context context = getApplicationContext();
-                        String txt = newContent;
-                        int duration = Toast.LENGTH_SHORT;
-                        Toast toast = Toast.makeText(context, txt, duration);
-                        toast.show();
+
                     }
 
                 }
@@ -197,7 +192,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    private  void nopeAction(View view, String kanji){
+    public void nopeAction(View view, String kanji){
 
         //Used when User responds with the "Nope" button; they
         //don't recognize or understand the kanji.
@@ -244,12 +239,6 @@ public class MainActivity extends AppCompatActivity {
                         newContent = parts[0] + "\t" + parts[1] + "\t" + parts[2] + "\t" + parts[3]
                                 + "\r\n";
 
-                        //test
-                        Context context = getApplicationContext();
-                        String txt = newContent;
-                        int duration = Toast.LENGTH_SHORT;
-                        Toast toast = Toast.makeText(context, txt, duration);
-                        toast.show();
                     }
 
                 }
@@ -301,14 +290,30 @@ public class MainActivity extends AppCompatActivity {
         NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(this, id);
         mBuilder.setSmallIcon(R.drawable.kamekanji_icon);
 
-        //The action button intent
 
+        //Build the flash card, containing kanji, tier, etc.
         notifInfo = makeFlashcard();
+
+        //Set the kanji on the MainActivity
+        setContentView(R.layout.activity_main);
+        TextView textView = (TextView) findViewById(R.id.textView2);
+        textView.setText(notifInfo[0]);
+
+        //Create the action button intent
+        Intent intentAction = new Intent(this, MyBroadcastReceiver.class);
+        Intent intentAction2 = new Intent(this, MyBroadcastReceiver.class);
+        intentAction.putExtra("answer","know");
+        intentAction.putExtra("answer", "nope");
+        PendingIntent pIntentlogin = PendingIntent.getBroadcast(this.getBaseContext(), 0, intentAction,PendingIntent.FLAG_UPDATE_CURRENT);
+        PendingIntent pIntentlogin2 = PendingIntent.getBroadcast(this.getBaseContext(), 1, intentAction2,PendingIntent.FLAG_UPDATE_CURRENT);
+
         mBuilder.setContentTitle(notifInfo[0]);
         mBuilder.setContentText(notifInfo[1]);
         mBuilder.setStyle(new NotificationCompat.BigTextStyle().bigText(notifInfo[1] + "\n\n\n" + notifInfo[2] + "\n" + notifInfo[3]));
         mBuilder.setPriority(-1); //Set as low priority to stop auto-expending and showing answer.
         mBuilder.setAutoCancel(true);
+        mBuilder.addAction(R.drawable.kamekanji_icon, getString(R.string.new_know), pIntentlogin);
+        mBuilder.addAction(R.drawable.kamekanji_icon, getString(R.string.new_nope), pIntentlogin2);
 
         mBuilder.build();
 
@@ -317,8 +322,9 @@ public class MainActivity extends AppCompatActivity {
 
         TaskStackBuilder stackBuilder = TaskStackBuilder.create(this);
         stackBuilder.addNextIntent(notifIntent);
-        PendingIntent resultPendingIntent = stackBuilder.getPendingIntent(0,PendingIntent.FLAG_UPDATE_CURRENT);
-        mBuilder.setContentIntent(resultPendingIntent);
+        //PendingIntent resultPendingIntent = stackBuilder.getPendingIntent(0,PendingIntent.FLAG_UPDATE_CURRENT);
+        mBuilder.setContentIntent(pIntentlogin);
+        mBuilder.setContentIntent(pIntentlogin2);
 
         NotificationManager mNotifMan = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
         mNotifMan.notify(mBuilder.mNumber ,mBuilder.build()); //This makes the notification appear.
@@ -351,12 +357,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void newCardKnow(View view){
-        setUp();
         knowAction(view, notifInfo[0]);
     }
 
     public void newCardNope(View view){
-        setUp();
         nopeAction(view, notifInfo[0]);
     }
 
@@ -557,3 +561,4 @@ public class MainActivity extends AppCompatActivity {
     }
 
 }
+
